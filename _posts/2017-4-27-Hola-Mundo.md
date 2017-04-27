@@ -18,4 +18,4 @@ Para poner un link hay que encerrar el texto del enlace entre corchetes [] y peg
 
 Ejemplo:
 
-![_Logo ]({{ site.baseurl }}/images/link.png)
+![_Logo ]({{ site.baseurl }}/images/link.PNG)
