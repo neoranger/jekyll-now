@@ -25,10 +25,19 @@ Para crear una lista simple basta con agregar un * (asterisco) en cada linea don
 
 Ejemplo: * Comprar el pan
 
+* Comprar el Pan
+* Ir a buscar el paquete al correo
+* Lavar el auto
+
 #### Listas Ordenadas:
-Para crear una lista ordenada basta con empezar a enumerar el elemento a listar seguido de un punto.
+Para crear una lista ordenada basta con empezar a enumerar el elemento a listar seguido de un punto. Básicamente sirve para listar secuencias.
 
 Ejemplo: 1. Primer elemento
+
+1. Editar el archivo
+2. Guardar los cambios
+3. Commitear los cambios
+4. Hacer push a git
 
 # Citas:
 Para crear una cita es algo completamente sencillo, solo debemos escribir el símbolo > (mayor) seguido de un espacio y la cita que queremos crear.
