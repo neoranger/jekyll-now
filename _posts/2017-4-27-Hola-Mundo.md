@@ -15,3 +15,7 @@ También les dejo un link a mi blog [NeoSiteLinux](https://neositelinux.com) y a
 # Tip importante:
 
 Para poner un link hay que encerrar el texto del enlace entre corchetes [] y pegado al texto entre paréntesis tiene que ir la URL del link a crear.
+
+Ejemplo:
+
+![_Logo ]({{ site.baseurl }}/images/link.png)
