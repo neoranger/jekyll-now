@@ -12,5 +12,6 @@ Les muestro el logo de mi blog:
 
 También les dejo un link a mi blog [NeoSiteLinux](https://neositelinux.com) y a [mi repositorio en github](https://github.com/neoranger) en GitHub.
 
-#Tip importante:
+##Tip importante:
+
 Para poner un link hay que encerrar el texto del enlace entre corchetes [] y pegado al texto entre paréntesis tiene que ir la URL del link a crear.
