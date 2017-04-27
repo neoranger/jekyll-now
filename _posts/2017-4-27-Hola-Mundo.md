@@ -4,8 +4,7 @@ title: Primer Post!
 ---
 
 Hola! Este es mi primer post en el que voy a empezar a experimentar todo el mundo del markdown. La idea principal es poder aprender a utilizar ésta forma de escritura.
-¿Te animás a empezar éste viaje?
-(shown below).
+¿Te animás a empezar éste viaje?.
 
 Les muestro el logo de mi blog:
 
