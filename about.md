@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-Some information about you!
+### Acerca de este blog: 
 
-### More Information
+El enfoque inicial del blog es el desarrollo personal en el conocimiento de Markdown. A través de diferentes entradas en el blog vamos a ir aprendiendo de a poco como utilizarlo.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contacto
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[neoranger@openmailbox.org](mailto:neoranger@openmailbox.org)
