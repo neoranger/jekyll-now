@@ -19,4 +19,4 @@ Ejemplo: *Este es un Ejemplo*
 
 ![_Logo ]({{ site.baseurl }}/images/cursiva.PNG)
 
-Así de fácil se escribe en **negrita* y en *cursiva*.
+Así de fácil se escribe en **negrita** y en *cursiva*.
