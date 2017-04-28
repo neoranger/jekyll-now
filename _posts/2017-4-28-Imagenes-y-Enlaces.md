@@ -22,7 +22,3 @@ Y después sin dejar espacios y entre paréntesis ponemos la ruta de la imagen. 
 Ejemplo:
 
 ![_Logo ]({{ site.baseurl }}/images/imagen.PNG)
-
-Cabe destacar que ésto sirve tanto para **imágenes** como para **videos**. Les muestro como hacerlo con un video.
-
-![_Logo ](https://www.youtube.com/watch?v=GYJHvHmMFR4)
