@@ -12,7 +12,7 @@ Para insertar código lo que tenemos que hacer es poner una tilde invertida (tam
 
 Les dejo un ejemplo: 
 
-![_Logo ]({{ site.baseurl }}/images/código1.PNG)
+![_Logo ]({{ site.baseurl }}/images/codigo1.PNG)
 
 `Asi se inserta código en una sola linea`
 
@@ -21,7 +21,7 @@ Para insertar código en varias lineas lo que vamos a hacer es empezar el párra
 
 Les dejo el ejemplo:
 
-![_Logo ]({{ site.baseurl }}/images/código2.PNG)
+![_Logo ]({{ site.baseurl }}/images/codigo2.PNG)
 
 ```
 Con ésto podemos tener varias lineas de código:
