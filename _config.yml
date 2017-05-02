@@ -28,7 +28,7 @@ footer-links:
   rss: rss
   twitter: neositelinux
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: user/NeoSiteLinux # channel/<your_long_string> or user/<user-name>
   googleplus: u/0/b/117201522433405043701/?pageId=117201522433405043701
 
 
