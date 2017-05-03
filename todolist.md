@@ -9,3 +9,4 @@ Esta es lista de **Cosas por hacer** (también llamada To Do List en inglés) re
 Lista:
 * Crear un formulario de contacto
 * Crear una página referente a Markdown, su historia y su uso en la actualidad.
+* Modificar colores del blog tocando el CSS (aprendiendo CSS :P )
