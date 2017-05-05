@@ -4,7 +4,7 @@ title: To Do List
 permalink: /todolist/
 ---
 
-Esta es lista de **Cosas por hacer** (también llamada To Do List en inglés) referente a éste mismo blog.
+Esta es lista de **Cosas por hacer** (también llamada *To Do List* en inglés) referente a éste mismo blog.
 
 Lista:
 * Crear un formulario de contacto
