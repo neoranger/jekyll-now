@@ -51,3 +51,5 @@ Lista simple:
 * *Actualizamos repositorios:* `sudo apt update`
 * **Actualizamos aplicaciones:** `sudo apt upgrade`
 * ***Actualizamos Sistema:***     `sudo apt dist-upgrade`
+
+![_Logo ]({{ site.baseurl }}/images/mezcla4.PNG)
