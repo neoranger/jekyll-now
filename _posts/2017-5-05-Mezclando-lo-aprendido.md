@@ -14,20 +14,22 @@ Ya sabemos hacer citas, por lo que a las mismas vamos a añadirles un formato a 
 
 ![_Logo ]({{ site.baseurl }}/images/mezcla1.PNG)
 
+Como verán no tiene sentido poner cursivas en una cita ya que la cita forma el texto en cursivas.
+
 ### Dandole formato a las listas
 Vamos a hacer listas numeradas o listas simples mezclando también las negritas y las cursivas.
 
 **Ejemplo:**
 
 Lista simple:
-* **Primer elemento**
-* *Segundo elemento*
-* ***Tercer elemento***
+* **Primer elemento** (negrita)
+* *Segundo elemento* (cursiva)
+* ***Tercer elemento*** (negrita y cursiva)
 
 Lista numerada:
-1. **Primer elemento**
-2. *Segundo elemento*
-3. ***Tercer elemento***
+1. **Primer elemento** (negrita)
+2. *Segundo elemento* (cursiva)
+3. ***Tercer elemento*** (negrita y cursiva)
 
 ![_Logo ]({{ site.baseurl }}/images/mezcla2.PNG)
 
@@ -47,5 +49,5 @@ Vamos a probar también de meter código en listas. No es muy funcional hacerlo,
 
 Lista simple:
 * *Actualizamos repositorios:* `sudo apt update`
-* *Actualizamos aplicaciones:* `sudo apt upgrade`
-* **Actualizamos Sistema:**     `sudo apt dist-upgrade`
+* **Actualizamos aplicaciones:** `sudo apt upgrade`
+* ***Actualizamos Sistema:***     `sudo apt dist-upgrade`
