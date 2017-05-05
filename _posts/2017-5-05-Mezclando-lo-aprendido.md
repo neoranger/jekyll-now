@@ -42,6 +42,16 @@ Probemos insertar enlaces en las citas.
 
 ![_Logo ]({{ site.baseurl }}/images/mezcla3.PNG)
 
+Al parecer éste tipo de enlaces no funciona. Si le dan click se van a dar cuenta por qué. Asi que lo que vamos a hacer es crear un enlace de referencia dentro de la cita.
+
+**Ejemplo:**
+
+> Esto es una cita con un enlace a [NeoSiteLinux][1]
+
+[1]: https://www.neositelinux.com
+
+![_Logo ]({{ site.baseurl }}/images/mezcla5.PNG)
+
 ### Código en listas
 Vamos a probar también de meter código en listas. No es muy funcional hacerlo, pero lo mostramos para ver que también se puede hacer.
 
