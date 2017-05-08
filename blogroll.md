@@ -29,4 +29,4 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 
 [6]: https://podcastlinux.github.io
 [7]: https://ugeek.github.io
-[8]: www.killallradio.tk
+[8]: http://www.killallradio.tk
