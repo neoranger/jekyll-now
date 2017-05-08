@@ -13,4 +13,4 @@ El enfoque inicial del blog es el desarrollo personal en el conocimiento de Mark
 [neoranger@openmailbox.org](mailto:neoranger@openmailbox.org)
 
 ### Blog personal sobre GNU/Linux
-[NeoSiteLinux](www.neositelinux.com)
+[NeoSiteLinux](https://www.neositelinux.com)
