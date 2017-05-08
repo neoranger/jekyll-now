@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enlaces a cabeceras con identificadores, Tablas y Lineas Horizontales
+title: Enlaces a Cabeceras con Identificadores, Tablas y Lineas Horizontales
 ---
 
 Hoy vamos a ver algo muy bueno para hacer. Lo primero que vamos a hacer es poner enlaces en encabezados para llamarlos dentro del mismo texto.
@@ -48,7 +48,10 @@ Ejemplo:
 - - -
 ___
 ```
+Queda algo como ésto:
 
 ***
+
 - - -
+
 ___
