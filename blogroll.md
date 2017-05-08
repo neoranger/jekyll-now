@@ -13,8 +13,6 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 * [PodcastLinux](podcastlinux.github.io)
 * [uGeek](ugeek.github.io)
 * [NeoSiteLinux](www.neositelinux.com)
-
-# Sitios de Interés
 * [SalmorejoGeek](salmorejogeek.com)
 * [KernelPanicBlog](kernelpanicblog.wordpress.com)
 
