@@ -3,7 +3,7 @@ layout: post
 title: Otra buena opcion para podcasts
 ---
 
-En el [podcast anterior](https://neoranger.github.io/Interfaz-de-audio-usb-simple-para-podcast) les mostré sobre una interfaz USB sencilla para realizar podcasts de una manera muy sencilla a una calidad altísima. Hoy les traigo otra muy buena opción.
+En el [post anterior](https://neoranger.github.io/Interfaz-de-audio-usb-simple-para-podcast) les mostré sobre una interfaz USB sencilla para realizar podcasts de una manera muy sencilla a una calidad altísima. Hoy les traigo otra muy buena opción.
 
 Les hablo del micrófono **Audio Technica ATR2100-USB**. Esta gran herramienta nos facilita varias cosas, a saber:
 
