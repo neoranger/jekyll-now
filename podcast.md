@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Prueba de subdirectorio
-permalink: /about/prueba/
+title: Podcasts
+permalink: /blogroll/podcast/
 ---
 
 # Prueba
