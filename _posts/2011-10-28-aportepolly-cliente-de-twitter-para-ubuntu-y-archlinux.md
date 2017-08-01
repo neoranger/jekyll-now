@@ -1,0 +1,9 @@
+---
+layout: post
+title: Polly - Cliente de Twitter para Ubuntu y ArchLinux
+date: 2011-10-28
+author: neoranger
+comments: true
+categories: [General]
+---
+<b>Polly es un cliente de Twitter para GNU/Linux.</b> Es fácil de usar, rápido y cuenta con varias características interesantes como: la <b>posibilidad de administrar varias <span></span>cuentas, subir <span></span>imágenes  o vídeos desde su interfaz.</b> Además, si eres <span></span>usuario de Ubuntu, verás que Polly se integra con su <span></span>menú  de mensajería.<br /><br /><br /><div class="separator" style="clear:both;text-align:center;"> <a href="http://104.131.75.199/wp-content/uploads/2014/11/070ce-polly-twitter-client.jpg" style="margin-left:1em;margin-right:1em;"><img border="0" height="361" src="http://104.131.75.199/wp-content/uploads/2014/11/070ce-polly-twitter-client.jpg?w=300" width="640" /></a></div><br /><b>También </b><b>es multicolumna, lo cual resulta muy útil.</b> Gracias a esto podemos contemplar de un simple vistazo lo que más nos interesa leer de nuestra <span></span>cuenta (un ejemplo de multicolumna lo vemos en la <span></span>imagen superior).<br /><br /><span style="font-size:medium;"><b>Instalación en <span></span></b></span><b>Ubuntu</b><br /><br /><ul><li>sudo apt-add-repository ppa:conscioususer/polly-daily</li><li>sudo apt-get update</li><li>sudo apt-get install polly</li></ul><br /><span style="font-size:medium;"><b>Instalación en Arch <span></span>Linux [AUR]</b></span><br /><br /><ul><li>yaourt -S polly</li></ul><br />No quedan dudas, de que a pesar de ser una aplicación bastante reciente, <b>Polly, se ha convertido en una gran alternativa a los distintos clientes de Twitter</b> que existen en el <span></span>escritorio GNU/Linux.<br /><br /><br /><br /><br />Como ahora TweetDeck no corre mas en Gnu/Linux porque Adobe dejó de lado Adobe Air, Polly es una buena alternativa, al igual que Turpial, para administrar las cuentas.<br /><br /><br /><br />

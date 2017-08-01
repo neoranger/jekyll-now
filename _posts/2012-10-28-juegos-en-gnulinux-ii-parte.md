@@ -1,0 +1,9 @@
+---
+layout: post
+title: Juegos en GNU/Linux, II Parte
+date: 2012-10-28
+author: neoranger
+comments: true
+categories: [Aporte]
+---
+Hoy os traemos la II parte de esta lista de fantásticos juegos para GNU/Linux. En esta ocasión contamos con todo un clásico de los arcade,  Armagetron advanced, y otro clásico de los RPG, Battle for Wesnoth.<br /><br /><h3>Armagetron Advanced </h3><br />Basado en la película original de Tron, podrás montarte en una moto de luz y luchar contra los bots, o mejor aun, contra numerosos contrincantes online. Aunque es un juego de arcade clásico, puedes encontrar muchos servidores internacionales. Es un juego que no pasa de moda y promete horas y horas de diversión (lo digo por experiencia). Altamente recomendable, totalmente nativo para GNU/Linux y gratuito. ¡No tienes excusa para no jugar!<br /><br /><div class="separator" style="clear:both;text-align:center;"></div><br />Puedes descargar el juego <a href="http://armagetronad.org/downloads.php">aquí</a> (Linux, Mac, Windows)<br /><img border="0" src="https://apps.ubuntu.com/assets/images/scbutton-free-200px.png" /><br /><h3>Battle for Wesnoth</h3><br />Este es uno de los pesos pesados RPG. Con una excelente critica (que comparto al haberlo probado, y disfrutado personalmente) encontraras Battle for Wesnoth, un juego de estrategia por turnos de temática fantástica. Los gráficos no son espectaculares, pero la historia te enganchara, y merece la pena probarlo.<br />Aquí os dejo un gameplay (en ingles) para que veáis el estilo de juego.<br /><br /><div class="separator" style="clear:both;text-align:center;"></div><br /><br />Puedes descargar el juego <a href="http://wiki.wesnoth.org/Download">aquí</a> (Linux, Mac, Windows)<br /><img border="0" src="https://apps.ubuntu.com/assets/images/scbutton-free-200px.png" /><br /><br /><br />No os olvidéis de comentarnos que os parecido, y nos vemos en la próxima entrega con mas videojuegos. Let's Play!<br /><br />

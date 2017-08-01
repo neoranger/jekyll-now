@@ -1,0 +1,9 @@
+---
+layout: post
+title: Actualizando mi Ubuntu 12.04 a 12.10 Beta 2
+date: 2012-9-28
+author: neoranger
+comments: true
+categories: [Informacion]
+---
+<br /><br />En estos momentos estoy actualizando mi Ubuntu tal cual lo dice el titulo de este post. En el dia de ayer publicamos que se habia lanzado la Beta 2 de la próxima versión de Ubuntu, la 12.10  (12 por el año 2012 y 10 por el mes de Octubre). Por eso mismo decidí probarlo en mi maquina para ver los resultados de esta nueva version en carne propia. Es obvio, que al ser la version Beta, todavia debe tener algunos bugs de los cuales se tienen que corregir, pero mas que nada me voy a enfocar en la performance que voy a tener una vez que se haya terminado de actualizar.<br /><br />Ustedes se preguntarán como hice para actualizar, bueno, en solo 3 sencillos pasos.<br />1)  Primero tenemos que poner los repositorios de la proxima version haciendo lo siguiente desde una terminal:<br /><blockquote class="tr_bq"><span style="background-color:#ebebeb;color:#333333;font-family:arial, sans-serif;font-size:13px;line-height:18px;">sudo sed -i 's/precise/quantal/g' /etc/apt/sources.list</span></blockquote> 2) Como segundo paso debemos actulizar estos repositorios haciendo el conocido comando:<br /><blockquote class="tr_bq">sudo apt-get update</blockquote> 3) Como ultimo paso debemos poner el comando para actualizar la distribución de la siguiente manera:<br /><blockquote class="tr_bq">sudo apt-get dist-upgrade</blockquote>Y listo, con estos sencillos pasos se nos va a actualizar nuestra version de Ubuntu 12.04 a la 12.10.<br /><br />Como lo dije mas arriba, aclaro que es la version Beta de la distro, pero en unos pocos dias vamos a tener la version final.<br /><br />Si lo prueban pueden contarmelo en los comentarios.<br /><br />Saludos!!

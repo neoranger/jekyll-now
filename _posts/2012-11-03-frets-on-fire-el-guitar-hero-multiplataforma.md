@@ -1,0 +1,9 @@
+---
+layout: post
+title: Frets on Fire, El Guitar Hero multiplataforma
+date: 2012-11-03
+author: neoranger
+comments: true
+categories: [Informacion]
+---
+<br /><div style="text-align:center;">Hola amigos, hace mucho no redactaba nada en el blog y hoy se me ocurrió portear este interesante juego.</div><div style="text-align:center;">Se trata del Frets on Fire, un juego muy parecido al Guitar Hero, osea un simulador de guitarra. Pero este tiene la ventajas de ser Totalmente libre y Multiplataforma  es decir, que funciona en varios sistemas operativos gracias a estar escritos en Python.</div><br /><div style="text-align:center;"><br /></div><div style="text-align:center;">Este juego también incluye varios Mods para hacerlo mas jugable y/o personalizarlo, algunos simulando al ya mencionado Guitar Hero o al Rock Band.</div><div style="text-align:center;"><br /></div><br /><div style="text-align:center;">El juego pueden descargarlo directamente desde </div><div style="text-align:center;"><a href="http://fretsonfire.sourceforge.net/"></a><a href="http://fretsonfire.sourceforge.net/">http://fretsonfire.sourceforge.net/</a> </div><br /><div style="text-align:center;"><br /></div><div style="text-align:center;"><br /></div><div style="text-align:center;">Aqui les dejo un Gameplay del FoF con un mod de Guitar Hero</div><div style="text-align:center;"><br /></div><br /><div class="separator" style="clear:both;text-align:center;"></div><div class="separator" style="clear:both;text-align:center;"><br /></div><div class="separator" style="clear:both;text-align:center;"><br /></div><div class="separator" style="clear:both;text-align:center;">Yo lo juegue en varias oportunidades y la verdad si no prestas mucha atención no te das cuenta que no es el guitar hero. Espero les sirva la info, Saludos!</div>
