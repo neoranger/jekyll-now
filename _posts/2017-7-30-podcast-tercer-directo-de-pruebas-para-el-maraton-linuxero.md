@@ -18,8 +18,6 @@ Sin más dilatación les dejo la grabación de éste nuevo directo de pruebas pa
 
 https://www.youtube.com/watch?v=dtyrImIRius
 
-&nbsp;
-
 Seguime en las redes sociales:
 
 <ul>
