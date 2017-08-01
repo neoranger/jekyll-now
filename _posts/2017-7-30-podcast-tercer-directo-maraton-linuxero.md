@@ -16,6 +16,9 @@ En ésta oportunidad tuve la posibilidad de poder participar de éstas pruebas s
 
 Sin más dilatación les dejo la grabación de éste nuevo directo de pruebas para el Maratón.
 
+
+[![#02 Avanzando en el Maratón Linuxero](https://img.youtube.com/vi/dtyrImIRius/0.jpg)](https://www.youtube.com/watch?v=dtyrImIRius "#02 Avanzando en el Maratón Linuxero")
+
 https://www.youtube.com/watch?v=dtyrImIRius
 
 Seguime en las redes sociales:
