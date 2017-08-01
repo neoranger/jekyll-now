@@ -1,0 +1,9 @@
+---
+layout: post
+title: Se acaba Ubuntu como tal?
+date: 2014-01-09
+author: neoranger
+comments: true
+categories: [General, Informacion]
+---
+<a href="http://www.ubuntizando.com/wp-content/uploads/2012/02/ubuntu-android-500x354.jpg"><img alt="ubuntu-android-500x354" class="aligncenter size-full wp-image-2974" height="354" src="http://www.ubuntizando.com/wp-content/uploads/2012/02/ubuntu-android-500x354.jpg" width="500" /></a><br /><br /><br /><span style="font-size:small;"><span>Gracias la entrevista realizada por PCPro a Mark Shuttleworth vamos conociendo detalles del futuro rumbo que  tomará Ubuntu. Hasta la fecha teníamos versiones LTS (con soporte de 5  años) y otras con un soporte mucho más reducido (9 meses). Pues esto va a  cambiar. Ubuntu 15.04 no será liberado. No al menos como lo conocemos.</span></span><br /><span style="font-size:small;"><span></span></span><span style="font-size:small;"><span>Canonical cambiará su calendario de publicación. ¿La razón? Siempre  se ha hablado de una modificar el calendario de publicación a algo más  razonable o hacia una Rolling Release (el sistema se actualiza  periódicamente cargando mejoras en aplicaciones y el propio sistema).  Pero la principal razón es la convergencia.</span></span><br /><span style="font-size:small;"><span></span></span><span style="font-size:small;"><span>Canonical empezará vender telefonos con Ubuntu Phone Instalado, y  parece buena idea que la versión de escritorio y Ubuntu Touch converjan  en un mismo sistema. Unificar esfuerzos para lograr este objetivo  justifica un profundo cambio. Por lo pronto podemos olvidarnos de Ubuntu  15.04 y Ubuntu 14.10 está en el aire.</span></span><br /><br /><span style="font-size:small;"><span><a href="http://www.ubuntizando.com/2014/01/09/no-habra-ubuntu-15-04/" target="_blank">FUENTE</a> </span></span>
