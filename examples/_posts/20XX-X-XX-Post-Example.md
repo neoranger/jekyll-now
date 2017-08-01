@@ -1,6 +1,12 @@
 ---
 layout: post
-title: Prueba
+title: "Example"
+date: 2017-07-24
+categories: Category
+image: images/photo_2017-04-27_10-33-30.jpg
+podcast_link: https://github.com/neoranger/neoranger.github.io/raw/master/Podcast/prueba.mp3
+tags: [audio, telegram, neositelinux, linux,]
+comments: true
 ---
 
 This is a Test.
