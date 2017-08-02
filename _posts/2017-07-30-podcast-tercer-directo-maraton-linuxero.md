@@ -4,7 +4,7 @@ title: Tercer directo de pruebas para el Maratón Linuxero
 date: 2017-7-30
 author: neositelinux
 comments: true
-categories: [gnu, gnu linux, gnulinux, linux, maraton, maraton linuxero, Podcast, podcast, podcasters, podcasts,]
+categories: [Podcast]
 ---
 <img class="  wp-image-4558 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/07/cartelmaratonlinuxero.png" alt="CartelMaratonLinuxero" width="311" height="175" />
 
