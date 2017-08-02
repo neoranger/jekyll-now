@@ -4,9 +4,9 @@ title: Se viene el Maratón Linuxero!!
 date: 2017-7-17
 author: neoranger
 comments: true
-categories: [audio, Informacion, jack, jitsi, linux, maraton, maraton linuxero, mumble, obs, open broadcast studio, Podcast, podcast, podcasters, podcasts]
+categories: [Informacion, Podcast,]
 ---
-<img class=" size-full wp-image-4558 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/07/cartelmaratonlinuxero.png" alt="CartelMaratonLinuxero" width="2048" height="1152" />
+<img class=" size-full wp-image-4558 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/07/cartelmaratonlinuxero.png" alt="CartelMaratonLinuxero" width="600" height="600" />
 
 ¿Qué cosa? ¿Qué dice éste tipo? Si si, como lo han leído.
 
@@ -14,14 +14,12 @@ El sábado, 3 de septiembre se realizará el Maratón Linuxero, un evento en dir
 
 Esta idea surge del gran podcaster Juan Febles, creador de <a href="https://avpodcast.net/podcastlinux/">Podcast Linux</a> , un podcast que recomiendo muchísimo escuchar.
 
-<!--more-->
-
 Si querés saber bien de que se trata te dejo el directo en formato audio para que sepas bien cómo, cuando y donde se va a llevar a cabo éste gran evento.
 Acordate que si vivís en Argentina como yo, tenemos 5 horas de diferencia (de menos) con España, por lo que tenés que tener presente ésto para no perdertelo.
 
 Directo que se hizo para contar de qué va el Maratón:
 
-https://www.youtube.com/watch?v=xx87M-JDwVs
+[![#01 Qué es y cómo anda el Maratón Linuxero](https://img.youtube.com/vi/xx87M-JDwVs/0.jpg)](https://www.youtube.com/watch?v=xx87M-JDwVs "#01 Qué es y cómo anda el Maratón Linuxero")
 
 &nbsp;
 
