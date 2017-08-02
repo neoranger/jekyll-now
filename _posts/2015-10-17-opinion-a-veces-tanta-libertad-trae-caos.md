@@ -4,9 +4,8 @@ title: A veces tanta libertad trae caos
 date: 2015-10-17
 author: neoranger
 comments: true
-categories: [Podcast]
+categories: [Opinion]
 ---
-<a href="http://www.neositelinux.com.ar/wp-content/uploads/2015/10/libertad.jpg"><img class="alignnone  wp-image-854" src="http://www.neositelinux.com.ar/wp-content/uploads/2015/10/libertad-300x138.jpg" alt="libertad" width="342" height="157" /></a> <a href="http://www.neositelinux.com.ar/wp-content/uploads/2015/10/caos.jpg"><img class="alignnone  wp-image-855" src="http://www.neositelinux.com.ar/wp-content/uploads/2015/10/caos-300x209.jpg" alt="caos" width="285" height="199" /></a>
 
 Claro, hablando respecto al software (politica y socialmente me reservo la opinión). En Linux (o GNU/Linux para los puristas) tenemos muchisima libertad.
 No nos gusta un entorno? Lo cambiamos. No nos gusta tal gestor de archivos? Lo cambiamos. No nos gusta tal paquete ofimático? Lo cambiamos. No nos gusta tal gestor de paquetes? Lo cambiamos. Y así un laaaaargo etcétera.

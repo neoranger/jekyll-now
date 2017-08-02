@@ -6,7 +6,6 @@ author: neoranger
 comments: true
 categories: [OffTopic]
 ---
-<a href="http://www.neositelinux.com.ar/wp-content/uploads/2016/02/jesusbarrero.jpg" rel="attachment wp-att-1275"><img class="size-medium wp-image-1275 aligncenter" src="http://www.neositelinux.com.ar/wp-content/uploads/2016/02/jesusbarrero-300x169.jpg" alt="jesusbarrero" width="300" height="169" /></a>
 
 Si tenés entre 25 y 35 años seguramente sabés quienes son <strong>Luke Skywalker, Rick Hunter, Koji Kabuto, Seiya, Yamcha, Jhonny Quest, Jason de "Mighty Morphin Power Rangers", Kuzco de "Las locuras del Emperador", el muñeco de Jengibre de "Shrek"</strong>, etc. Estos personajes fueron interpretados por el gran Jesús Barrero, un actor de doblaje que empezó desde muy chico en el cine (con pelis de Cantinflas) y se dedicó de lleno al doblaje.
 

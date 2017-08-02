@@ -6,7 +6,6 @@ author: neoranger
 comments: true
 categories: [OffTopic]
 ---
-<a href="http://www.neositelinux.com.ar/wp-content/uploads/2016/01/superamos_los_5000.png" rel="attachment wp-att-1028"><img class=" wp-image-1028 aligncenter" src="http://www.neositelinux.com.ar/wp-content/uploads/2016/01/superamos_los_5000-300x126.png" alt="superamos_los_5000" width="741" height="311" /></a>
 
 Puede ser que el número no les mueva un pelo a mas de uno pero para mi es muy importante. El blog ha tenido un crecimiento enorme en los ultimos 6 meses, desde que nos pasamos a un dominio propio usando como CMS Wordpress.org pero teniendo la libertad de poder mantener el blog a mi gusto, algo que nunca lo había hecho ya que siempre trabajé con dominios gratis como blogger o wordpress.com (donde empezamos como neositelinux.wordpress.com, cometiendo el error de borrarlo, asi que ahora tambien dejé como backup neositelinuxblog.wordpress.com) sin preocuparme de lo genial que puede ser tener un dominio propio, un VPS donde trabajar tranquilo sabiendo que puedo tocar, romper, arreglar y mantener como se me de la gana.
 

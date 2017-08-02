@@ -6,7 +6,6 @@ author: neoranger
 comments: true
 categories: [Informacion]
 ---
-<a href="http://www.neositelinux.com.ar/wp-content/uploads/2016/04/wp-1461079694965.png"><img title="wp-1461079694965" class="alignnone size-full" alt="image" src="http://www.neositelinux.com.ar/wp-content/uploads/2016/04/wp-1461079694965.png" /></a>
 
 Este sábado 23 de abril de 2016 se va a desarrollar en varias ciudades de Latino América el FLISoL 2016. El FLISoL es el Festival Latinoamericano de Instalación de Software Libre, un espacio para que usuarios tanto novatos como expertos se junten para compartir experiencias, ayudarse a instalar las distribuciones que quieran (el famoso Install Fest), participar de talleres, stands y poder sumarse a varias charlas con temática relacionadas al software libre y GNU/Linux.
 

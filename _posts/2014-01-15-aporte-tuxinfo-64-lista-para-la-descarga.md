@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TuxInfo #64 lista para la descarga
+title: TuxInfo 64 lista para la descarga
 date: 2014-01-15
 author: neoranger
 comments: true
@@ -16,4 +16,5 @@ categories: [General, TuxInfo]
 
 <div style="line-height:22px;margin-bottom:15px;padding:0;"><strong style="background-color:white;"><span style="font-family:Helvetica Neue, Arial, Helvetica, sans-serif;"><em><a href="http://infosertec.loquefaltaba.com/" style="text-decoration:none;" target="_blank">Acceso a grilla de revistas publicadas.</a><br /><a href="http://www.tuxinfo.com.ar/?feed=rss2" style="text-decoration:none;" target="_blank">RSS de TuxInfo</a></em><em><br /><a href="http://www.twitter.com/tuxinfo" style="text-decoration:none;" target="_blank">Seguinos en Twitter @tuxinfo</a></em></span></strong></div>
 
-<div style="line-height:22px;margin-bottom:15px;padding:0;"><span style="font-family:Helvetica Neue, Arial, Helvetica, sans-serif;">No dudes en descargarte el número de este mes!!</span><br /><span style="font-family:Helvetica Neue, Arial, Helvetica, sans-serif;"><br /></span><span style="font-family:Helvetica Neue, Arial, Helvetica, sans-serif;">FUENTE</span></div>
+<div style="line-height:22px;margin-bottom:15px;padding:0;"><span style="font-family:Helvetica Neue, Arial, Helvetica, sans-serif;">No dudes en descargarte el número de este mes!!</span><br /><span style="font-family:Helvetica Neue, Arial, Helvetica, sans-serif;"><br /></span>
+[FUENTE](www.tuxinfo.com.ar)

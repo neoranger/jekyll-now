@@ -6,7 +6,7 @@ author: neoranger
 comments: true
 categories: [Opinion]
 ---
-[caption id="attachment_2382" align="aligncenter" width="563"]<img class="alignnone  wp-image-2382" src="https://blogneositelinux.files.wordpress.com/2016/10/dilema.jpg" alt="dilema" width="563" height="336" /> ????????????????????????????????????????????????????????????[/caption]
+<img class="alignnone  wp-image-2382" src="https://blogneositelinux.files.wordpress.com/2016/10/dilema.jpg" alt="dilema" width="563" height="336" />
 
 En el día de ayer salió un tema de conversación con alguna gente linuxera en un grupo de Telegram donde uno de ellos preguntaba:
 

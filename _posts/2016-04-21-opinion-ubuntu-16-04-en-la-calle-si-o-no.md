@@ -6,7 +6,6 @@ author: neoranger
 comments: true
 categories: [Opinion]
 ---
-<a href="http://www.neositelinux.com.ar/wp-content/uploads/2016/04/wp-1461253664471.jpg"><img title="wp-1461253664471" class="alignnone size-full" alt="image" src="http://www.neositelinux.com.ar/wp-content/uploads/2016/04/wp-1461253664471.jpg" /></a>
 
 En el día de hoy ha sido publicada para todo el público la versión estable de Ubuntu 16.04 y no podíamos ser menos opinando sobre el tema.
 Hace bastante tiempo que dejé de usar Ubuntu, mi última versión fue la 12.04 aunque uso Ubuntu Server 14.04.4 para el VPS donde está alojado el blog.

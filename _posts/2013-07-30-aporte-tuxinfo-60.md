@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TuxInfo #60
+title: TuxInfo Nro 60
 date: 2013-07-30
 author: neoranger
 comments: true
