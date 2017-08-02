@@ -19,3 +19,7 @@ Para poner un link hay que encerrar el texto del enlace entre corchetes [] y peg
 Ejemplo:
 
 ![_Logo ]({{ site.baseurl }}/images/link.PNG)
+
+
+EDITADO el 2/08/2017: COMO SE HABRÁN DADO CUENTA IMPORTÉ TODOS LOS POSTS QUE TENÍA EN MI BLOG HACIA ACÁ PARA EN UN FUTURO QUEDARME SOLO AQUÍ ASI QUE TOMEMOS ESTE POST SOLO COMO LA CONTINUACIÓN DEL PROYECTO NEOSITELINUX.
+
