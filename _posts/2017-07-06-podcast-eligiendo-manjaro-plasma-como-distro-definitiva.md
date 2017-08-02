@@ -4,7 +4,7 @@ title: Eligiendo Manjaro Plasma como distro definitiva
 date: 2017-7-06
 author: neoranger
 comments: true
-categories: [distribuciones, distros, gnu linux, gnulinux, linux, manjaro, manjaro plasma, manjaro testing, Podcast, podcast]
+categories: [Distros, Podcast,]
 ---
 <img class="size-full wp-image-2326 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/cropped-isotipo-270x270.png" alt="cropped-isotipo-270x270" width="270" height="270">
 
@@ -19,8 +19,7 @@ Telegram:&nbsp;<a href="http://ar.ivoox.com/es/link_i3_1.html?url=https://t.me/n
 
 Facebook: <a href="http://www.facebook.com/neositelinux">www.facebook.com/neositelinux</a>
 
-<!--more-->
-
 Acá el audio. Agradecemos que lo compartas con todos!
 
-http://ar.ivoox.com/es/neositelinux-podcast-2017-0-eligiendo-a-audios-mp3_rf_19666910_1.html
+[Audio en Ivoox](http://ar.ivoox.com/es/neositelinux-podcast-2017-0-eligiendo-a-audios-mp3_rf_19666910_1.html)
+

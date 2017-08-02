@@ -4,7 +4,7 @@ title: ¿Windows 10 puede tener algo bueno?
 date: 2017-7-28
 author: neoranger
 comments: true
-categories: [gnulinux, linux, microsoft, Opinión, windows, windows 10]
+categories: [Opinion]
 ---
 <img class="  wp-image-4608 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/07/trucos-windows-10-gestion-ventanas.jpg" alt="trucos-windows-10-gestion-ventanas" width="595" height="335" />
 
@@ -13,8 +13,6 @@ A pesar de ser un blog sobre GNU/Linux hemos tocado diferentes entradas acerca d
 Es sabido también que mucho de los que estamos en el ámbito del IT por lo general y porque la empresa lo requiere o, en su defecto, porque tienen un convenio usan Windows y toda la plataforma empresarial de Microsoft.
 
 Con el arribo de Windows 10 muchos están contentos con el sistema a pesar de varias cosas <a href="http://neositelinux.com/2015/10/11/podcast-windows-10-y-la-casa-de-cristal/">que ya sabemos los que tenemos un poco más de conocimiento</a> que otros que no tienen. A mí me pasa algo muy diferente y ésto es lo que les vengo a contar.
-
-<!--more-->
 
 En el correr de los días de trabajo que uno tiene, uno pasa más tiempo en el sistema con el que trabaja que con los sistemas que tiene en la casa y algo de eso me pasa seguido.
 
