@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title: Script de ejecucion para que no se caiga el bot de Telegram
 date: 2016-05-23
@@ -16,7 +16,8 @@ Básicamente este script lo que hace es volver a ejecutar el bot en el caso de q
 
 El script en cuestion es este:
 
-<code>#!/bin/bash
+<code>
+#!/bin/bash
 while true
 do
 python bot.py     (archivo.py que ejecuta el bot)
@@ -29,7 +30,8 @@ done
 echo "###########################################"
 echo "#Bot is restarting now #"
 echo "###########################################"
-done</code>
+done
+</code>
 
 <img class=" size-full wp-image-2798 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/script_ejecucion_bot.png" alt="script_ejecucion_bot" width="819" height="508" />
 
