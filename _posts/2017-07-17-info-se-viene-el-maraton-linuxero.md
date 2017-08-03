@@ -6,7 +6,7 @@ author: neoranger
 comments: true
 categories: [Informacion, Podcast,]
 ---
-<img class=" size-full wp-image-4558 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/07/cartelmaratonlinuxero.png" alt="CartelMaratonLinuxero" width="600" height="600" />
+<img class="  wp-image-4558 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/07/cartelmaratonlinuxero.png" alt="CartelMaratonLinuxero" width="311" height="175" />
 
 ¿Qué cosa? ¿Qué dice éste tipo? Si si, como lo han leído.
 
