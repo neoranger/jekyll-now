@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teaser Trailer de la Cuarte Temporada de Mr. Robot"
+title: "Teaser Trailer de la Cuarta Temporada de Mr. Robot"
 date: 2017-08-04
 author: neositelinux
 comments: true
