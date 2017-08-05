@@ -1,6 +1,10 @@
 ---
 layout: post
 title: La mejor forma de instalar Telegram en nuestra distribución GNU/Linux
+date: 2017-08-01
+author: neositelinux
+comments: true
+categories: [Aporte]
 ---
 
 Existen varias formas de como instalar Telegram en nuestra distro.Tenemos los paquetes binarios en cada distro, los paquetes comprimidos, paquetes de terceros, etc.
