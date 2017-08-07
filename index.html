@@ -4,15 +4,13 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-	{% for item in array limit:2 offset:2 %}
-    		<article class="post">
+	<article class="post">
 
-      		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      	<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      		<div class="entry">
-        		{{ post.excerpt }}
-      		</div>
-	{% endfor %} 
+      	<div class="entry">
+        	{{ post.excerpt }}
+      	</div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer más...</a>
     </article>
