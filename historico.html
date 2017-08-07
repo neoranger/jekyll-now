@@ -1,9 +1,11 @@
 ---
 layout: default
+title: Historico
+permalink: /historico/
 ---
 
 <div class="posts">
-  {% for post in site.posts  limit:10 %}
+  {% for post in site.posts  offset:0 %}
         <article class="post">
 
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -16,6 +18,5 @@ layout: default
     </article>
   {% endfor %}
 
-  <a href="{{ site.baseurl }}nombre-pagina.html">Entradas antiguas</a>
-
 </div>
+
