@@ -14,8 +14,6 @@ categories: [Informacion]
 
 <br />
 
-<div class="separator" style="clear:both;text-align:center;"><a href="http://104.131.75.199/wp-content/uploads/2014/11/48331-capturadepantallade2012-11-14173906.png" style="margin-left:1em;margin-right:1em;"><img border="0" height="356" src="http://104.131.75.199/wp-content/uploads/2014/11/48331-capturadepantallade2012-11-14173906.png?w=300" width="640" /></a></div>
-
 <br />Pues resulta que esta misma opción viene en la nueva versión para Linux, por lo que se podría decir que tenemos un cliente oficial de WLM que es propiedad de Microsoft.<br /><br />
 
 <div style="text-align:center;">Descargar Skype 4.1 para Linux</div>

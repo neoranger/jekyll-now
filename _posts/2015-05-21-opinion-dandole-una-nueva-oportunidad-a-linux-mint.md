@@ -18,6 +18,6 @@ Lo raro de todo esto es que a Cinnamon le di un estilo tipo XFCE, algo que se pu
 
 Asi que acá lo tienen a mi LM 17.1 Cinnamon obviamente con UEFI anda ya que tiene el soporte derivado de Ubuntu (como casi todas sus derivadas) pero totalmente funcional y lista para usar.
 
-<a href="http://104.131.75.199/wp-content/uploads/2015/05/captura-de-pantalla-de-2015-05-20-101613.png"><img class="alignnone size-full wp-image-2285" src="https://blogneositelinux.files.wordpress.com/2016/10/captura-de-pantalla-de-2015-05-20-101613.png" alt="captura-de-pantalla-de-2015-05-20-101613" width="1366" height="768" /></a>Esta es la distro (por ahora) que más se amoldó a mis necesidades y que recomiendo en un 100%.
+<a href="https://blogneositelinux.files.wordpress.com/2016/10/captura-de-pantalla-de-2015-05-20-101613.png"><img class="alignnone size-full wp-image-2285" src="https://blogneositelinux.files.wordpress.com/2016/10/captura-de-pantalla-de-2015-05-20-101613.png" alt="captura-de-pantalla-de-2015-05-20-101613" width="1366" height="768" /></a>Esta es la distro (por ahora) que más se amoldó a mis necesidades y que recomiendo en un 100%.
 
 Cual es su distro preferida? Probasste alguna vez Linux Mint?

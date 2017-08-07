@@ -12,8 +12,6 @@ Llegué a casa y lo primero que hice fue prenderla mas que nada para descargarle
 
 Al prenderla me encontré con la interfaz hiperconocida de Windows 8. Algo que no les aclaré, la pantalla de la laptop es táctil algo que no me había dicho el vendedor, pero bueno. Comencé a usarlo tanto desde la pantalla táctil como desde el mousepad con los gestos que vienen por defecto y demás.
 
-<a href="http://104.131.75.199/wp-content/uploads/2015/04/new-start-screen.png"><img class=" size-medium wp-image-605 aligncenter" src="http://104.131.75.199/wp-content/uploads/2015/04/new-start-screen.png?w=300" alt="new-start-screen" width="300" height="169" /></a>
-<p style="text-align:center;">Ilustración de referencia</p>
 <!--more-->Por un momento, me dió la sensación de estar en casa, de volver a algo que conocía hace mucho y que me había alejado. Empecé a configurar el sistema, sincronizando mi cuenta de hotmail, creando un perfil de Xbox Live (para lo juegos), actualizando el sistema desde la tienda (de 8 a 8.1) y la verdad que el sistema me estaba agradando mucho, me sentía muy cómodo con lo que tenía adelante.
 
 Pero claro, llegó el momento de la verdad, el momento donde tenía que empezar a instalar aplicaciones necesarias tanto para trabajar como para la vida diaria. Y claro, empezaron los problemas.

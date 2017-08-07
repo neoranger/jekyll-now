@@ -14,7 +14,7 @@ El sábado 20 de junio estaba afuera de casa y chequeando Telegram desde el celu
 Mientras iba en el colectivo aproveché la señal 4G que me brinda Movistar para ir escuchando la radio para fijarme si empezaba o no.
 Llego a casa tranquilo sabiendo que todavía la charla no había empezado asi que me dispongo a prende mi laptop y bootear mi Linux Mint 17.1 XFCE, cuando de pronto... Kernel Panic
 
-<a href="http://104.131.75.199/wp-content/uploads/2015/06/702428055_20987.jpg"><img class="alignnone size-full wp-image-2143" src="https://blogneositelinux.files.wordpress.com/2016/10/702428055_20987.jpg" alt="702428055_20987" width="1280" height="719" /></a>Pero, que es un Kernel Panic?
+<a href="https://blogneositelinux.files.wordpress.com/2016/10/702428055_20987.jpg"><img class="alignnone size-full wp-image-2143" src="https://blogneositelinux.files.wordpress.com/2016/10/702428055_20987.jpg" alt="702428055_20987" width="1280" height="719" /></a>Pero, que es un Kernel Panic?
 Según Wikipedia:
 
 <blockquote>
