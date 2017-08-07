@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "¿Ahora que Openmailbox no anda como servicio IMAP, qué hacemos?"
-date: 2017-08-01
+date: 2017-08-07
 author: neositelinux
 comments: true
-categories: [Infomacion]
+categories: [Informacion]
 ---
 
 No se si habrán leído el post de [victorhckinthefreeworld](https://victorhckinthefreeworld.com/2017/08/07/openmailbox-bye-bye/) pero el mismo comenta que dejará de usar Openmailbox ya que éste servicio ha dado de baja el servidor IMAP a los usuarios que tienen plan FREE.
