@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NeoSiteLinux Podcast #2 - A veces hay que decir No
+title: "NeoSiteLinux Podcast #2 - A veces hay que decir No"
 date: 2015-07-26
 author: neoranger
 comments: true

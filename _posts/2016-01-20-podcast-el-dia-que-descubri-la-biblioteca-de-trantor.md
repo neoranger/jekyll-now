@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El día que descubrí la "Biblioteca de Trantor"
+title: "El día que descubrí la "Biblioteca de Trantor""
 date: 2016-01-20
 author: neoranger
 comments: true

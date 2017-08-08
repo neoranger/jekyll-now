@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NeoSiteLinux Podcast #1 - Año 2016 (Nueva temporada)
+title: "NeoSiteLinux Podcast #1 - Año 2016 (Nueva temporada)"
 date: 2016-03-20
 author: neoranger
 comments: true

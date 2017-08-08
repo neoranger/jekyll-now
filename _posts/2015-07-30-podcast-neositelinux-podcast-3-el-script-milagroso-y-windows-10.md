@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NeoSiteLinux Podcast #3 - El script milagroso y Windows 10
+title: "NeoSiteLinux Podcast #3 - El script milagroso y Windows 10"
 date: 2015-07-30
 author: neoranger
 comments: true
@@ -20,4 +20,5 @@ activeOutput=$(xrandr | grep -e " connected [^(]" | sed -e "s/([A-Z0-9]+) connec
 alpha=`zenity --scale --text "Brightness" --min-value=10 --max-value=100 --value=50`
 alpha=`echo $alpha / 100 | bc -l`
 `xrandr --output $activeOutput --brightness $alpha`</blockquote>
+
 Espero que te sirva y si te sirve comentamelo.

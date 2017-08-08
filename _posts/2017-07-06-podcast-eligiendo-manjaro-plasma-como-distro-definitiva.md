@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Eligiendo Manjaro Plasma como distro definitiva
+title: "NeoSiteLinux Podcast 2017 #0 - Eligiendo Manjaro Plasma como distro definitiva"
 date: 2017-7-06
 author: neoranger
 comments: true
-categories: [Distros, Podcast,]
+categories: [Distros, Podcast]
 ---
 <img class="size-full wp-image-2326 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/cropped-isotipo-270x270.png" alt="cropped-isotipo-270x270" width="270" height="270">
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows 10 y la casa de cristal
+title: "Windows 10 y la casa de cristal"
 date: 2015-10-11
 author: neoranger
 comments: true

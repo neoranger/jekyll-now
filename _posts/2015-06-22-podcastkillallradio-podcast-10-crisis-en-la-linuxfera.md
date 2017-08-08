@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KillAllRadio Podcast #10 - "Crisis en la Linuxfera?"
+title: "KillAllRadio Podcast #10 - "Crisis en la Linuxfera?""
 date: 2015-06-22
 author: neoranger
 comments: true

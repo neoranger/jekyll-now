@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tercer directo de pruebas para el Maratón Linuxero
-date: 2017-7-30
+date: 2017-07-30
 author: neositelinux
 comments: true
 categories: [Podcast]
