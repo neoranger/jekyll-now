@@ -84,7 +84,7 @@ permalink: /podcasts/
 
 ### 3) Editamos el ciclo For para que muestre solo la categoría que nosotros estamos buscando:
 
-Modificamos la linea `{% for post in site.posts %}` por `{% for post in site.categories.CATEGORIA %}`. En éste caso vamos a modificar **CATEGORIA** por Podcast. 
+Modificamos la linea **`{% for post in site.posts %}`** por **`{% for post in site.categories.CATEGORIA %}`**. En éste caso vamos a modificar **CATEGORIA** por Podcast. 
 **Atento a ésto porque ese parámetro es case sensitive. Es decir, que solo funcionará si la categoría está escrita exactamente igual como lo está en las entradas.**
 
 ### 4) Editamos el archivo  `_layouts/default.html` y agregamos la nueva página al menú:
