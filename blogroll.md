@@ -53,4 +53,4 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 [7]: https://ugeek.github.io
 [8]: http://www.killallradio.tk
 [9]: http://ar.ivoox.com/es/podcast-salmorejo-geek_sq_f1206500_1.html
-[20]: http://ar.ivoox.com/es/suscripciones_jb_2745704_1.html
+[20]: http://ar.ivoox.com/es/podcast-neositelinux-podcast_sq_f1169111_1.html
