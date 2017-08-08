@@ -7,7 +7,7 @@ comments: true
 categories: [Aporte]
 ---
 
-A pedido del amigo Juan Febles hago éste post explicando como crear una página de entradas históricas y páginas por categorías en los blogs con github.
+A pedido del amigo [Juan Febles](podcastlinux.github.io) hago éste post explicando como crear una página de entradas históricas y páginas por categorías en los blogs con github.
 
 Quiero aclarar que ésta información no la obtuve por mi mismo sino que el usuario Joseda, en Telegram, me explicó un par de cosas y después yo me mandé a hacer un poquito más y a meter mano para dejar el blog como quiero.
 
