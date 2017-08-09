@@ -12,7 +12,7 @@ Esta vez tocamos dos temas interesantes, un tema es sobre un script el cual le s
 
 Espero que les guste y que si quieren pueden suscribirse al <a href="http://www.ivoox.com/podcast-neositelinux-podcast_sq_f1169111_1.html">podcast en Ivoox</a> o seguirnos la 24 horas desde <a href="http://killallradio.tk">KillAll Radio</a> donde tanto nuestro podcast como otros están rotando junto con música 100% creative commons.
 
-<iframe id='audio_5609071' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://ar.ivoox.com/es/player_ej_5609071_4_1.html?c1=ff6600"></iframe>
+<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="http://ar.ivoox.com/es/player_ej_5609071_2_1.html?data=lpudm5WbdY6ZmKiak5qJd6KompKSmaiRdo6ZmKialpKJe6ShlZKSmaiRksbjtM7hx7HNstbsjLXcxsjFt9WfhpeglZCRb6KZpJiSpJbTb5OkkpqYj5CpsIznxNfW0tmPscrgwszf0ZKJe6Shr8rctMbSq8bmjoqkpZKY&"></iframe>
 
 Les dejo el script del que hablo en el podcast, acuerdense que parece que solo andan en distros basadas en Ubuntu. Crea un archivo de texto (dandole como extension .sh para poder ejecutarlo) y pegale lo siguiente:
 ```
