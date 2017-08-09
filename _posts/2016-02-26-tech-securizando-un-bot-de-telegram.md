@@ -11,9 +11,9 @@ categories: [Tecnologia]
 A raíz de un <a href="http://portallinux.es/raspberry-pi-notifica-cualquier-cosa-por-telegram/">post del compañero bloguero Zagur</a>, decidi tomar el mismo proyecto y usarlo para motivos personales.
 Por si no saben, el proyecto de Zagur fue crear un bot de Telegram el cual esté corriendo en su RaspberryPi con el fin de mandarle comandos al bot y que el bot a su vez interactúe con el sistema devolviendo información al respecto.
 
-Les doy un ejemplo, si queremos saber cuanto tiempo hace que la Raspberry esta prendida, le mandamos al bot el comando <strong>/uptime</strong> y éste a su vez ejecuta el comando <strong>uptime</strong> en el sistema y devuelve la información a Telegram. Todo esto de forma remota desde cualquier parte donde tengas tu cuenta de Telegram configurada y una conversación abierta con el bot.
+Les doy un ejemplo, si queremos saber cuanto tiempo hace que la Raspberry esta prendida, le mandamos al bot el comando **/uptime** y éste a su vez ejecuta el comando **uptime** en el sistema y devuelve la información a Telegram. Todo esto de forma remota desde cualquier parte donde tengas tu cuenta de Telegram configurada y una conversación abierta con el bot.
 
-Se pueden hacer muchísimas cosas con esto, por lo que me propuse primero que nada, darle algo de seguridad al bot ya que si lo tengo corriendo en mi RaspberryPi <strong>cualquier persona puede acceder al bot</strong> (si es que conocen el nombre), usarlo e incluso hacer cosas que no deberían ya que trabaja como si fuera un servidor que desde Telegram se puede acceder. (Quedó claro el ejemplo?)
+Se pueden hacer muchísimas cosas con esto, por lo que me propuse primero que nada, darle algo de seguridad al bot ya que si lo tengo corriendo en mi RaspberryPi **cualquier persona puede acceder al bot** (si es que conocen el nombre), usarlo e incluso hacer cosas que no deberían ya que trabaja como si fuera un servidor que desde Telegram se puede acceder. (Quedó claro el ejemplo?)
 
 Como no soy un experto programador en Python, estuve varios días probando diferentes métodos para securizar el bot hasta que finalmente he encontrado la solución.
 
@@ -24,17 +24,18 @@ En vez de esto, tomamos, como lo nombré antes el User ID único.
 
 Esto lo hacemos de una manera sencilla: En cada función que hemos creado para cada comando debemos agregarle la linea: "uid = m.from_user.id" (sin comillas, obviamente), y una vez  que hacemos esto, solo tenemos que validar esa ID obtenida por nuestra ID previamente guardada en un archivo .py aparte, tal como lo hicimos con el token en el post anterior.
 
-Les paso un ejemplo de una función completa con las validación del ID <strong>(por favor ignoren los guiones en el código, los puse mas que nada para que vean la identación del mismo ya que todavía no se poner tabulación en markdown)</strong>:
+Les paso un ejemplo de una función completa con las validación del ID **(por favor ignoren los guiones en el código, los puse mas que nada para que vean la identación del mismo ya que todavía no se poner tabulación en markdown)**:
 
-<pre><code>1-@bot.message.handler(commands=['test'])
-2-def command_test(m):
-3----cid = m.chat.id
-4----uid = m.from_user.id
-5----if  uid != user.user_id:
-6--------bot.send_message(cid, "You can't use the bot")
-7--------return
-8-----bot.send_message(cid, "This is a test")
-</code></pre>
+```
+@bot.message.handler(commands=['test'])
+def command_test(m):
+	cid = m.chat.id
+	uid = m.from_user.id
+	if  uid != user.user_id:
+		bot.send_message(cid, "You can't use the bot")
+	return
+bot.send_message(cid, "This is a test")
+```
 
 Como pueden ver, las lineas 4, 5, 6, y 7 es el código nuevo que llevarán todas las funciones. Guardamos el user ID único de Telegram en la variable uid. Si ésta no es igual a la variable que tenemos guardada en nuestro archivo user.py retonará el mensaje "You can't use the bot" y no hará mas nada. Si la variable uid es igual a la que tenemos guardada en nuestro archivo user.py entonces se ejecutará el comando puesto.
 

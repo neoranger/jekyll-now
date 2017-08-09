@@ -4,7 +4,7 @@ title: Seguridad en WordPress
 date: 2017-2-08
 author: neoranger
 comments: true
-categories: [Informacion, Media, seguridad en wordpress, seguridad wordpress, Tecnologia, video, wordpress, youtube]
+categories: [Informacion, Media, Tecnologia]
 ---
 Les quiero dejar una charla muy interesante que hizo el Ingeniero y SysAdmin, <a href="https://twitter.com/elcodigok">Daniel Maldonado</a> para la <a href="https://twitter.com/campusaula25">Universidad Tecnológica Nacional Facultad Regional San Francisco</a>.
 
