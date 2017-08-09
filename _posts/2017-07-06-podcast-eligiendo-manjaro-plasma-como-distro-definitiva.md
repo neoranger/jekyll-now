@@ -21,4 +21,4 @@ Facebook: <a href="http://www.facebook.com/neositelinux">www.facebook.com/neosit
 
 Acá el audio. Agradecemos que lo compartas con todos!
 
-<a href="http://ar.ivoox.com/es/neositelinux-podcast-2017-0-eligiendo-a-audios-mp3_rf_19666910_1.html" title="NeoSiteLinux Podcast 2017 - #0 - Eligiendo a Manjaro Plasma como distro definitiva.">Ir al audio</a>
+<a href="http://ar.ivoox.com/es/neositelinux-podcast-2017-0-eligiendo-a-audios-mp3_rf_19666910_1.html" title="NeoSiteLinux Podcast 2017 - #0 - Eligiendo a Manjaro Plasma como distro definitiva.">NeoSiteLinux Podcast 2017 #0 - Eligiendo Manjaro Plasma como distro definitiva</a>
