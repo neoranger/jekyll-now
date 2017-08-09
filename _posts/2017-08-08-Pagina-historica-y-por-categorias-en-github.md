@@ -25,9 +25,13 @@ Se puede decir que para hacer ésto hay que estar muy atento porque si cambiamos
 `nano index.html`
 
 A la linea que cita 
-**`for post in site.posts`** (linea número 6 en mi archivo) 
+```
+**for post in site.posts** (linea número 6 en mi archivo) 
+```
 debemos agregarle la variable **limit** quedando así
-**`for post in site.posts  limit:15`**
+```
+**for post in site.posts  limit:15**
+```
 
 Eso va a ser que limitemos el número de entradas en la página principal del blog.
 
@@ -91,9 +95,13 @@ permalink: /podcasts/
 ### 3) Editamos el ciclo For para que muestre solo la categoría que nosotros estamos buscando:
 
 Modificamos la linea 
-**`for post in site.posts`** 
+```
+**for post in site.posts** 
+```
 por lo siguiente
-** for post in site.categories.CATEGORIA`**
+```
+**for post in site.categories.CATEGORIA**
+```
 En éste caso vamos a modificar **CATEGORIA** por Podcast. 
 
 **Atento a ésto porque ese parámetro es case sensitive. Es decir, que solo funcionará si la categoría está escrita exactamente igual como lo está en las entradas.**
