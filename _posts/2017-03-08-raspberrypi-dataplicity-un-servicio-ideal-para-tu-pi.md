@@ -4,7 +4,7 @@ title: Dataplicity, un servicio ideal para tu Pi
 date: 2017-3-08
 author: neoranger
 comments: true
-categories: [Aporte, dataplicity, raspberry, raspberry pi, raspberry pi 2, raspberry remote control, RaspberryPi, raspberrypi2, raspbian, remote control]
+categories: [Aporte, RaspberryPi]
 ---
 <img class="  wp-image-2723 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/raspberry-pi-logo.jpg" alt="raspberry-pi-logo" width="520" height="260" />
 

@@ -8,7 +8,7 @@ categories: [Tecnologia]
 ---
 Hace unos días en un grupo de Telegram salió la idea de crear un bot a raíz de un pequeño fallo que tiene la aplicación. La administración de grupos de Telegram no es del todo buena ya que solo puede haber un admnistrador pero este admin no puede, al menos por ahora, nombrar a otra persona mas como administrador como para que haya 2 y si es un grupo grande haya un poco de moderación para que no se desbande todo. Esto en Whatsapp es totalmente funcional y común cosa que en Telegram no pasa y por esto tuvimos que mudar un grupo completo a otro porque cuando admin que estaba se fue, el que quedó asignado (por decisión de Telegram al azar, según tengo entendido) no era para nada activo, por ende, alrededor de 45 personas tuvimos que mudarnos.
 
-<strong>NOTA DE ACTUALIZACION #1: Esto ya no pasa ya que Telegram se ha actualizado y ya se puede tener mas de un administrador seleccionado en el grupo. Como esto lo escribi hace tiempo tengo que hacer esta aclaracion.</strong>
+**NOTA DE ACTUALIZACION #1: Esto ya no pasa ya que Telegram se ha actualizado y ya se puede tener mas de un administrador seleccionado en el grupo. Como esto lo escribi hace tiempo tengo que hacer esta aclaracion.**
 
 Por esto empezó el tema de la creación de bot, para ver si podíamos de alguna manera u otra darle permisos de administrador a alguien mas por medio de este bot. Como estaba con un poco de tiempo me puse a investigar y al cabo de un rato concluímos que ese bot no puede crearse ya que la API de Telegram no permite hacer eso.
 
@@ -16,7 +16,7 @@ A todo esto yo ya había armado el bot y lo estaba preparando para tirarle códi
 
 <img class="  wp-image-2499 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/fuckyounvidia.png" alt="fuckyounvidia" width="337" height="261" />
 
-<strong>NOTA DE ACTUALIZACION #2: Me habia olvidado un paso super importante, instalar la API de Telegram en nuestro VPS o PC o donde vamos a ejecutar el bot. Tenemos 2 formas de hacerlo (Las comillas dobles omitirlas al igual que el signo $, solo esta para indicar que se tiene que hacer desde la terminal):</strong>
+**NOTA DE ACTUALIZACION #2: Me habia olvidado un paso super importante, instalar la API de Telegram en nuestro VPS o PC o donde vamos a ejecutar el bot. Tenemos 2 formas de hacerlo (Las comillas dobles omitirlas al igual que el signo $, solo esta para indicar que se tiene que hacer desde la terminal):**
 
 <ol>
     <li>A traves del repositorio de Github:

@@ -4,7 +4,7 @@ title: Usando el Wormhole de Dataplicity
 date: 2017-3-15
 author: neoranger
 comments: true
-categories: [dataplicity, raspberry, raspberry pi, raspberry pi 2, RaspberryPi, raspberrypi2, raspbian, webserver, wormhole]
+categories: [Aporte, RaspberryPi]
 ---
 <img class="  wp-image-4182 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/03/dataplicity.png" alt="dataplicity" width="255" height="93" />
 

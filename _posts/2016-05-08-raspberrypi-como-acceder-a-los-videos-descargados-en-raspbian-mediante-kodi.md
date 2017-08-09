@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Como acceder a los videos descargados en Raspbian mediante Kodi
+title: "Como acceder a los videos descargados en Raspbian mediante Kodi"
 date: 2016-05-08
 author: neoranger
 comments: true
-categories: [Aporte]
+categories: [Aporte, RaspberryPi]
 ---
 <img class="  wp-image-2723 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/raspberry-pi-logo.jpg" alt="raspberry-pi-logo" width="514" height="257" />
 
@@ -16,40 +16,41 @@ Samba es una implementación libre del protocolo de archivos compartidos de Micr
 
 Vamos a instalar Samba en nuestra RaspberryPi, para ello usaremos el comando:
 
-<code>sudo apt-get install samba samba-common-bin</code>
+`sudo apt-get install samba samba-common-bin`
 
 Ahora, vamos a hacer un backup de la configuración original de Samba, por si rompemos algo, la tenemos para volver todo a la normalidad (tranquilos, es solo por precaución, no es nada dificil configurarlo):
 
-<code>sudo cp /etc/samba/samba.conf smb.old</code>
+`sudo cp /etc/samba/samba.conf smb.old`
 
 Con la configuración original guardada, vamos a editar el archivo de configuración:
 
-<code>sudo nano -w /etc/samba/samba.conf</code>
+`sudo nano -w /etc/samba/samba.conf`
 
 Nos movemos al final del archivo y lo que vamos a hacer es agregar un perfil el cual será la carpeta que vea el equipo que se quiera conectar, dándole una serie de parámetros:
 
-<pre><code>[pi pendrive]   -&gt; el nombre que tendrá la carpeta cuando la busquemos en samba
-comment = USB share -&gt; comentario acerca de la carpeta
-path = /media/pendrive -&gt; directorio el cual se abrirá cuando accedamos
-writeable = Yes -&gt; parámetro para hacer
-create mask = 0777 -&gt; permisos de la carpeta
-directory mask = 0777 -&gt; permisos del directorio montado
-browseable = Yes -&gt; hacemos que se pueda usar para buscar
-valid users @users -&gt; lo hacemos válido para el grupo de usuarios corrientes
-force user = pi -&gt; forzamos el login con el usuario por defecto (pi)
-</code></pre>
+```
+[pi pendrive] - el nombre que tendrá la carpeta cuando la busquemos en samba
+comment = USB share - comentario acerca de la carpeta
+path = /media/pendrive - directorio el cual se abrirá cuando accedamos
+writeable = Yes - parámetro para hacer
+create mask = 0777 - permisos de la carpeta
+directory mask = 0777 - permisos del directorio montado
+browseable = Yes - hacemos que se pueda usar para buscar
+valid users @users - lo hacemos válido para el grupo de usuarios corrientes
+force user = pi - forzamos el login con el usuario por defecto (pi)
+```
 
 Con el perfil configurado, vamos ahora a crear una contraseña para el usuario pi el cual nos pedirá una vez que nos querramos conectar via el explorador de archivos:
 
-<code>sudo smbpasswd -a pi</code>
+`sudo smbpasswd -a pi`
 
 Y listo, lo que falta hacer ahora es solo reiniciar el servicio de Samba para que tome la nueva configuración haciendo lo siguiente:
 
-<code>sudo /etc/init.d/samba restart</code>
+`sudo /etc/init.d/samba restart`
 
 Ahora, vamos a usar Nautilus para conectarnos al servidor y ver nuestro contenido de la RaspberryPi en un carpeta común pero de forma remota. Hacemos click en "Conectarse a un servidor" en la columna izquierda de Nautilus. Samba nos pedirá la dirección del servidor a la que nos querramos conectar. En este caso sería algo parecido a:
 
-<code>smb://192.168.1.XX  - donde XX es el numero que le asignamos de forma estática a la RaspberryPi</code>
+`smb://192.168.1.XX  - donde XX es el numero que le asignamos de forma estática a la RaspberryPi`
 
 <img class="alignnone size-full wp-image-2745" src="https://blogneositelinux.files.wordpress.com/2016/10/samba_conf1.png" alt="samba_conf1" width="765" height="553" />
 
@@ -64,7 +65,7 @@ Si quieren chequear que esté todo bien, pueden entrar de forma "gráfica" a la 
 Ahora podemos ver nuestras series y peliculas (y todo lo que tengamos en nuestro servidor) sin problemas. Si es una imagen o video podemos verla directamente mediante nuestro reproductor preferido de video si es que hicimos este úlitmo paso ya que tendremos una carpeta agregada y se puede usar como cualquier directorio.
 Pero también podemos usar KODI como reproductor, y eso es el último paso que nos queda por hacer.
 
-Con Kodi instalado en el equipos que querramos vamos a abrir la aplicación e iremos al apartado de Videos -&gt; Archivos -&gt; Añadir Videos... -&gt; Buscar
+Con Kodi instalado en el equipos que querramos vamos a abrir la aplicación e iremos al apartado de Videos -> Archivos -> Añadir Videos... -> Buscar
 
 <img class="alignnone size-full wp-image-2758" src="https://blogneositelinux.files.wordpress.com/2016/10/samba_conf4.png" alt="samba_conf4" width="1366" height="768" />
 

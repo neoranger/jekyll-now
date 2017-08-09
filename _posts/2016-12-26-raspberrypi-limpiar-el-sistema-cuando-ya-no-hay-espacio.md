@@ -28,7 +28,7 @@ Con éste comando accedemos a borrar los paquetes que ya no se utilizan o tempor
 
 El siguiente comando es:
 
-<blockquote>$ sudo apt-get clean</blockquote>
+`$ sudo apt-get clean`
 
 <img class="  wp-image-3975 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/12/problema_espacio_rpi3.png" alt="problema_espacio_rpi3" width="320" height="24" />
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como crear servidor Mumble en Raspbian
+title: "Como crear servidor Mumble en Raspbian"
 date: 2016-12-08
 author: neoranger
 comments: true
@@ -12,17 +12,15 @@ Lo que vamos a hacer es instalar mumble como servidor y configurarlo con canales
 
 Primero que nada vamos a pasarnos al usuario root para no tener que estar escribiendo "sudo" todo el tiempo ya que esto se hace todo con permisos de superusuario:
 
-<blockquote>sudo su</blockquote>
+`sudo su`
 
 Ahora vamos a instalar el servidor. Si bien en Raspbian (Debian) el paquete se llama "mumble-server", en la mayoría de las distros se llama "murmur" como realmente se llama el servidor.
 
-<!--more-->
-
-<blockquote>apt-get install mumble-server</blockquote>
+`apt-get install mumble-server`
 
 Ahora vamos a ejecutar la configuración del servidor para dejarlo a punto.
 
-<blockquote>dpkg-reconfigure mumble-server</blockquote>
+`dpkg-reconfigure mumble-server`
 
 Vamos a encontrarnos con ésta pantalla la cual nos pregunta si queremos ejecutar el servidor al encender el equipo. Conviene ponerle que Si para que no estemos levantando el server de manera manual, a menos que querramos hacerlo.
 
@@ -36,11 +34,11 @@ Por último vamos a configurar la contraseña del usuario SuperUser el cual sirv
 
 <img class="  wp-image-3716 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/12/mumble_server3.png" alt="mumble_server3" width="600" height="444" />
 
-Y listo, el server está instalado. Ahora vamos a arrancarlo pasándole el parámetro <strong>start</strong>:
+Y listo, el server está instalado. Ahora vamos a arrancarlo pasándole el parámetro **start**:
 
-<blockquote>/etc/init.d/mumble-server start</blockquote>
+`/etc/init.d/mumble-server start`
 
-Para pararlo o reiniciarlo se usan los parámetros <strong>stop</strong> o <strong>restart</strong> respectívamente.
+Para pararlo o reiniciarlo se usan los parámetros **stop** o **restart** respectívamente.
 
 Si nos conectamos como SuperUser vamos a poder modificar el server a nuestro antojo, añadiendo salas, nombrando como administradores a los usuarios que deseemos, incluso dándole permiso a las salas para que solo los usuarios que nosotros querramos puedan entrar.
 
@@ -48,8 +46,8 @@ Si nos conectamos como SuperUser vamos a poder modificar el server a nuestro ant
 
 Para editar el mensaje de bienvenida debemos meternos a la config a través de la consola editando el siguiente archivo como root:
 
-<blockquote>nano /etc/mumble-server.ini</blockquote>
+`nano /etc/mumble-server.ini`
 
-Ahí podremos darle una password a todo el servidor para hacerlo privado, o cambiar el mensaje de bienvenida editando el parámetro <strong>welcometext</strong> o incluso limitando la cantidad de personas conectadas editando el parámetro <strong>users</strong>.
+Ahí podremos darle una password a todo el servidor para hacerlo privado, o cambiar el mensaje de bienvenida editando el parámetro <strong>welcometext</strong> o incluso limitando la cantidad de personas conectadas editando el parámetro **users**.
 
 En fin, se puede customizar a gusto y placer de cada uno. Espero que les sirva y que puedan probar el server y usarlo con sus amigos.
