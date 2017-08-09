@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿GTK o QT?
+title: "¿GTK o QT?"
 date: 2016-11-08
 author: neoranger
 comments: true

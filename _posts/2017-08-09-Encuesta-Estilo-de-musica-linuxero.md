@@ -4,7 +4,7 @@ title: "Encuesta: ¿Qué estilo de música es el preferido de los Linuxeros?"
 date: 2017-08-09
 author: neositelinux
 comments: true
-categories: [Encuesta]
+categories: [Encuestas]
 ---
 
 Es un buen momento para conocer la brecha definitiva en el mundo de GNU/Linux. ¿Qué estilo de música es le preferido para la comunidad Linuxera?. Hemos visto infinidades de documentales y películas donde a la gente geek o nerd o del ámbito de la tecnología se lo suele vincular a un estilo de música bien definido (sino no me creen vean la película **"Hackers"**).

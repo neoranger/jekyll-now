@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Qué te parece más cómodo a la hora de instalar aplicaciones?
+title: "¿Qué te parece más cómodo a la hora de instalar aplicaciones?"
 date: 2016-10-25
 author: neoranger
 comments: true

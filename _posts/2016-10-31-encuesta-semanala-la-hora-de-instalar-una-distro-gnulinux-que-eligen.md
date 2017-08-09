@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A la hora de instalar una distro GNU/Linux, ¿que eligen?
+title: "A la hora de instalar una distro GNU/Linux, ¿que eligen?"
 date: 2016-10-31
 author: neoranger
 comments: true
