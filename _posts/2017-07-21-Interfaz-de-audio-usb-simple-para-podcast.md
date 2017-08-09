@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Interfaz de Audio USB simple para Podcast
+categories: [Media]
 ---
 
 Como saben, estoy reavivando el podcast desde mi [canal de ivoox](http://ar.ivoox.com/es/neositelinux-podcast-2017-0-eligiendo-a-audios-mp3_rf_19666910_1.html) por lo que estoy buscando equipos para ver como se le puede darle calidad al mismo. Es por eso que buscando en youtube, gran fuente de reviews de equipos de todo tipo.

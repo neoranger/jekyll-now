@@ -12,13 +12,15 @@ Esta vez tocamos dos temas interesantes, un tema es sobre un script el cual le s
 
 Espero que les guste y que si quieren pueden suscribirse al <a href="http://www.ivoox.com/podcast-neositelinux-podcast_sq_f1169111_1.html">podcast en Ivoox</a> o seguirnos la 24 horas desde <a href="http://killallradio.tk">KillAll Radio</a> donde tanto nuestro podcast como otros están rotando junto con música 100% creative commons.
 
-<a href="https://www.ivoox.com/player_ej_5609071_4_1.html?c1=ff6600">https://www.ivoox.com/player_ej_5609071_4_1.html?c1=ff6600</a>
+<iframe id='audio_5609071' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://ar.ivoox.com/es/player_ej_5609071_4_1.html?c1=ff6600"></iframe>
 
 Les dejo el script del que hablo en el podcast, acuerdense que parece que solo andan en distros basadas en Ubuntu. Crea un archivo de texto (dandole como extension .sh para poder ejecutarlo) y pegale lo siguiente:
-<blockquote>#!/bin/sh
+```
+#!/bin/sh
 activeOutput=$(xrandr | grep -e " connected [^(]" | sed -e "s/([A-Z0-9]+) connected.*/1/")
-alpha=`zenity --scale --text "Brightness" --min-value=10 --max-value=100 --value=50`
-alpha=`echo $alpha / 100 | bc -l`
-`xrandr --output $activeOutput --brightness $alpha`</blockquote>
+alpha=zenity --scale --text "Brightness" --min-value=10 --max-value=100 --value=50
+alpha=echo $alpha / 100 | bc -l
+xrandr --output $activeOutput --brightness $alpha
+```
 
 Espero que te sirva y si te sirve comentamelo.

@@ -18,6 +18,6 @@ Una charla amena donde tocamos muchos temas como por ejemplo <strong>"Telegram v
 
 Espero que les guste y que disfruten tanto como nosotros disfrutamos charlando. Saludos!!
 
-<a href="https://ar.ivoox.com/es/player_ej_10873941_4_1.html?c1=ff6600">https://ar.ivoox.com/es/player_ej_10873941_4_1.html?c1=ff6600</a>
+<iframe id='audio_10873941' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://ar.ivoox.com/es/player_ej_10873941_4_1.html?c1=ff6600"></iframe>
 
 &nbsp;

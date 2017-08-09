@@ -20,4 +20,4 @@ La idea es hacer podcasts así de cortos o no extenderse mas de 10 minutos ya qu
 
 Sin más pueden escuchar este sencillo y corto podcast en el reproductor donde también pueden suscribirse al canal tanto nuestro como el de los demás podcasters dentro de la comunidad <a href="https://killallradio.wordpress.com">KillAll Radio</a>.
 
-<a href="https://www.ivoox.com/player_ej_5320133_4_1.html?c1=ff6600">https://www.ivoox.com/player_ej_5320133_4_1.html?c1=ff6600</a>
+<iframe id='audio_5320133' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://ar.ivoox.com/es/player_ej_5320133_4_1.html?c1=ff6600"></iframe>

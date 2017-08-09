@@ -21,5 +21,4 @@ Facebook: <a href="http://www.facebook.com/neositelinux">www.facebook.com/neosit
 
 Acá el audio. Agradecemos que lo compartas con todos!
 
-[Audio en Ivoox](http://ar.ivoox.com/es/neositelinux-podcast-2017-0-eligiendo-a-audios-mp3_rf_19666910_1.html)
-
+<iframe id='audio_19666910' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://ar.ivoox.com/es/player_ej_19666910_4_1.html?c1=ff6600"></iframe>

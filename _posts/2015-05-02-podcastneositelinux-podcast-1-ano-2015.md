@@ -26,4 +26,6 @@ Algunos temas que tratamos en le podcast:
 
 Esperamos sus comentarios (buenos y malos, no hay problema) y que si les gustó que lo compartan con los que ustedes creen que les interese. Gracias por ayudarnos en este proyecto!!
 
-[audio="http://www.ivoox.com/neositelinux-podcast-1-ano-2015_md_4438604_wp_1.mp3"] <a title="NeoSiteLinux Podcast #1 - Año 2015" href="http://www.ivoox.com/neositelinux-podcast-1-ano-2015-audios-mp3_rf_4438604_1.html">Ir a descargar</a>
+<iframe id='audio_4438604' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://ar.ivoox.com/es/player_ej_4438604_4_1.html?c1=ff6600"></iframe>
+
+<a title="NeoSiteLinux Podcast #1 - Año 2015" href="http://www.ivoox.com/neositelinux-podcast-1-ano-2015-audios-mp3_rf_4438604_1.html">Ir a descargar</a>
