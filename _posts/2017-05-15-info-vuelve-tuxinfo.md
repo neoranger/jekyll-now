@@ -4,7 +4,7 @@ title: Vuelve TuxInfo!!
 date: 2017-5-15
 author: neoranger
 comments: true
-categories: [gnu linux, gnulinux, Informacion, tuxinfo]
+categories: [Informacion]
 ---
 <img class="  wp-image-2096 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/2515d-tuxinfo2bportada2bpara2bblog.jpg" alt="2515d-tuxinfo2bportada2bpara2bblog" width="292" height="96" />
 

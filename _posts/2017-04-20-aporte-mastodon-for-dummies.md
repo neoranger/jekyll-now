@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Mastodon for Dummies
-date: 2017-4-20
+date: 2017-04-20
 author: neoranger
 comments: true
-categories: [Aporte, guia mastodon, Informacion, mastodon, mastodon for dummies, mastodon guia, mastodon social, mastodonar]
+categories: [Aporte, Informacion]
 ---
 <img class=" size-full wp-image-4334 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/04/mastodon0.png" alt="mastodon0" width="274" height="285" />
 
