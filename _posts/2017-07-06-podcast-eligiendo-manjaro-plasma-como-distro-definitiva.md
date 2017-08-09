@@ -21,4 +21,4 @@ Facebook: <a href="http://www.facebook.com/neositelinux">www.facebook.com/neosit
 
 Acá el audio. Agradecemos que lo compartas con todos!
 
-<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://ar.ivoox.com/es/player_ek_19666910_2_1.html?data=kp6jmJuddZGhhpywj5aXaZS1kZ6ah5yncZOhhpywj5aRaZi3jpeah5ynca_Z0LjW1sqwrc_p2ZC90cnHpdTojJedk5yPcYyZk5idjZKPic3dyM7S0MnTb8KfrsbbzMbWs4zEzZKSmaiRksbjs8bbycrWcYarpJKh&"></iframe>
+<object id="player19666910" width="240" height="133" type="application/x-shockwave-flash" data="http://ar.ivoox.com/es/playerivoox_ee_19666910_1.html"><param name="movie" value="http://ar.ivoox.com/es/playerivoox_ee_19666910_1.html"></param><param name="AllowScriptAccess" value="always"></param><param name="allowFullScreen" value="true"></param><param name="wmode" value="transparent"></param><embed src="http://ar.ivoox.com/es/playerivoox_ee_19666910_1.html" type="application/x-shockwave-flash" allowfullscreen="true" wmode="transparent" allowscriptaccess="always" width="240" height="133"></embed></object>
