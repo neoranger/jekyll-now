@@ -31,16 +31,16 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 [3]: https://www.neositelinux.com
 [4]: https://www.salmorejogeek.com
 [5]: https://kernelpanicblog.wordpress.com
-[10]: http://lamiradadelreplicante.com
-[11]: http://www.muylinux.com/
-[12]: http://www.webupd8.org
-[13]: http://blog.desdelinux.net
-[14]: http://www.linuxito.com
-[15]: http://elblogdeliher.com
-[16]: http://www.diariodeunalinuxera.com
-[17]: http://www.ochobitshacenunbyte.com
-[18]: http://www.systeminside.com
-[19]: http://jvare.com
+[10]: https://lamiradadelreplicante.com
+[11]: https://www.muylinux.com/
+[12]: https://www.webupd8.org
+[13]: https://blog.desdelinux.net
+[14]: https://www.linuxito.com
+[15]: https://elblogdeliher.com
+[16]: https://www.diariodeunalinuxera.com
+[17]: https://www.ochobitshacenunbyte.com
+[18]: https://www.systeminside.com
+[19]: https://jvare.com
 
 # Podcasts de Interés
 * [PodcastLinux][6]
