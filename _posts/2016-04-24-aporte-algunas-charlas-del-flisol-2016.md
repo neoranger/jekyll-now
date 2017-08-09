@@ -13,10 +13,10 @@ Es por esto también que solo pude grabar pocas charlas ya que en las demás nad
 
 Aclaro que las charlas se publican con el debido permiso de los disertantes. Gracias a ellos.
 
-Hubo muchísimas más charlas pero éstas son la que pude graba ya que me tuve que ir antes del evento (y perderme los sorteos, sniff!!). Espero que las disfruten y cualquier inquietud me escriben un comentario o me mandan un mail como siempre a neoranger@openmailbox.org
+Hubo muchísimas más charlas pero éstas son la que pude graba ya que me tuve que ir antes del evento (y perderme los sorteos, sniff!!). Espero que las disfruten y cualquier inquietud me escriben un comentario o me mandan un mail como siempre a neoranger@openmailbox.org.
 
-<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="http://ar.ivoox.com/es/player_ej_11285768_2_1.html?data=kpafmpqbepmhhpywj5edaZS1kpWah5yncZOhhpywj5WRaZi3jpWah5yncYapo6jVw9fQpYy6ra7AsbGPdpGll4qippCwrc_p2ZDkytSJd6efjpC0w8fWrcbgjKnS1c7Rs8_ZjoqkpZKyqdDGwtPUx9eRaZi3jpk.&"></iframe>
+<a href="http://ar.ivoox.com/es/charla-flisol-2016-linux-who-gabriel-desimone-audios-mp3_rf_11285768_1.html" title="[Charla FLISOL 2016] Linux who? - Gabriel Desimone">[Charla FLISOL 2016] Linux who? - Gabriel Desimone</a>
 
-<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="http://ar.ivoox.com/es/player_ej_11285705_2_1.html?data=kpafmpqbdJahhpywj5iaaZS1lpqah5yncZOhhpywj5WRaZi3jpWah5yncYapo6jVw9fQpYy6ra7AsbGPdpGll4qippC6rcjdzcbbxc7Fb8bgxsjh1NTSrcTVjJKYpc3WrdToysbbj4qbh47CxtS_w9PLqdOhhpywj5k.&"></iframe>
+<a href="http://ar.ivoox.com/es/charla-flisol-2016-vigilancia-electronica-christian-maran-audios-mp3_rf_11285705_1.html" title="[Charla FLISOL 2016] Vigilancia electronica - Christian Maran">[Charla FLISOL 2016] Vigilancia electronica - Christian Maran</a>
 
-<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="http://ar.ivoox.com/es/player_ej_11285588_2_1.html?data=kpafmpqZfJmhhpywj5eZaZS1kZ2ah5yncZOhhpywj5WRaZi3jpaah5yncYapo6jVw9fQpYy6ra7AsbGPdpGll4qippC2pc_n0NLkw9fJaZS1jLHOjdbZrc_owsrgx9PHrcKfxcrZjcuRaZi3jrPS0bfFssjZ05KSmaiReA..&"></iframe>
+<a href="http://ar.ivoox.com/es/charla-flisol-2016-ransomware-la-quintaesencia-del-formato-audios-mp3_rf_11285588_1.html" title="[Charla FLISOL 2016] Ransomware: La quintaesencia del formato propietario - Carlos Pantelides">[Charla FLISOL 2016] Ransomware: La quintaesencia del formato propietario - Carlos Pantelides</a>

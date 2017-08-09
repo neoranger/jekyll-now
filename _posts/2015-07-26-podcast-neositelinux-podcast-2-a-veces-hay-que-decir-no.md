@@ -20,4 +20,4 @@ La idea es hacer podcasts así de cortos o no extenderse mas de 10 minutos ya qu
 
 Sin más pueden escuchar este sencillo y corto podcast en el reproductor donde también pueden suscribirse al canal tanto nuestro como el de los demás podcasters dentro de la comunidad <a href="https://killallradio.wordpress.com">KillAll Radio</a>.
 
-<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="http://ar.ivoox.com/es/player_ej_5320133_2_1.html?data=lpifkpaXd46ZmKiakpqJd6KnlZKSmaiRdo6ZmKiak5KJe6Shk5KSmaiRksbjtM7hx7HNstbsjLXcxsjFt9WfhpeglJCRb6KZpJiSpJbTb5OkkpqYj5Clb9fZxMrgjc3FvYzl1sqYxpKJe6Shr8rctMbSq8bmjoqkpZKY&"></iframe>
+<a href="http://ar.ivoox.com/es/neositelinux-podcast-2-ano-2015-a-audios-mp3_rf_5320133_1.html" title="NeoSiteLinux Podcast #2 - Año 2015 - A veces hay que decir No">NeoSiteLinux Podcast #2 - Año 2015 - A veces hay que decir No</a>

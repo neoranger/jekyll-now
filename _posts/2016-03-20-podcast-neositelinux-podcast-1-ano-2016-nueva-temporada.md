@@ -18,4 +18,4 @@ Una charla amena donde tocamos muchos temas como por ejemplo <strong>"Telegram v
 
 Espero que les guste y que disfruten tanto como nosotros disfrutamos charlando. Saludos!!
 
-<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="http://ar.ivoox.com/es/player_ej_10873941_2_1.html?data=kpWlmZideJKhhpywj5WVaZS1lZWSlaaZdY6ZmKialJKJe6ShkpKSmaiRdY6ZmKiasMrTl8roxrHW0Nrcb7HjxcjO1dmPaZOnkpCajaaJh5SZo5bcjZeUdZehhpywj7PJs7PVz8zS1JKJe6ShlQ..&"></iframe>
+<a href="http://ar.ivoox.com/es/neositelinux-podcast-1-ano-2016-audios-mp3_rf_10873941_1.html" title="NeoSiteLinux Podcast #1 - Año 2016">NeoSiteLinux Podcast #1 - Año 2016</a>
