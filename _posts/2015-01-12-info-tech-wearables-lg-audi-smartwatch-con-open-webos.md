@@ -18,4 +18,4 @@ En este video pueden ver en acción a este SmartWatch que, aunque todavía no ti
 
 [![Exclusive: The LG Audi smartwatch runs webOS!](https://img.youtube.com/vi/EGRJPNZvX4/0.jpg)](https://www.youtube.com/watch?v=_EGRJPNZvX4 "Exclusive: The LG Audi smartwatch runs webOS!")
 
-<p style="text-align:left;">Mas info <a href="http://www.androidcentral.com/lg-audi-watch-android-wear-webos">ACA</a></p>
+**Mas info** [ACA](http://www.androidcentral.com/lg-audi-watch-android-wear-webos)
