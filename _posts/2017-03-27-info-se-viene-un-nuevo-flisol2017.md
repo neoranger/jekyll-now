@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Se viene un nuevo FLISoL2017
-date: 2017-3-27
+date: 2017-03-27
 author: neoranger
 comments: true
-categories: [evento, FLISOL, flisol 2017, flisol2017, flisolcaba, gnu linux, gnulinux, Informacion, latinoamerica]
+categories: [Informacion]
 ---
 <img class="  wp-image-2984 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/wp-1461079694965.png" alt="wp-1461079694965" width="391" height="175" />
 

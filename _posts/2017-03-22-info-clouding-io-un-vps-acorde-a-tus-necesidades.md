@@ -1,69 +1,59 @@
 ---
 layout: post
-title: Clouding.io un VPS acorde a tus necesidades
-date: 2017-3-22
+title: "Clouding.io un VPS acorde a tus necesidades"
+date: 2017-03-22
 author: neoranger
 comments: true
 categories: [centos, clouding, clouding.io, debian, docker, gnu linux, gnulinux, Informacion, linux, plesk, Ubuntu, vps, windows server]
 ---
 <img class="  wp-image-4254 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/03/clouding0.jpg" alt="clouding0" width="432" height="185" />
 
-Hoy les quiero contar que la gente de <strong><a href="http://clouding.io">Clouding.io</a></strong> me contactó para mostrarme sus servicios y que pueda probarlos a fin de dar una especie de review de los mismos.
+Hoy les quiero contar que la gente de [Clouding.io](http://clouding.io) me contactó para mostrarme sus servicios y que pueda probarlos a fin de dar una especie de review de los mismos.
 
 Les cuento que <a href="http://clouding.io/caracteristicas">Clouding.io es un sitio español el cual brinda  servidores virtuales privados (o VPS en sus siglas en inglés)</a>, los cuales podemos usarlos para uso personal, comercial o profesional.
 
-<!--more-->
-
 ¿Que nos brinda Clouding.io? Bueno, por empezar podemos montar servidores tanto Linux como Windows Server.
 
-Las distros <strong>GNU/Linux</strong> que utilizan son:
+Las distros **GNU/Linux** que utilizan son:
 
-<ul>
-    <li>CentOS 5.0, 6.0 y 7.0</li>
-    <li>Debian 7 y 8</li>
-    <li>Ubuntu 12.04, 14.04, 14.10, 15.04, 15.10, 16.04 y 16.10</li>
-</ul>
+* CentOS 5.0, 6.0 y 7.0
+* Debian 7 y 8
+* Ubuntu 12.04, 14.04, 14.10, 15.04, 15.10, 16.04 y 16.10
 
-Y por el lado de <strong>Windows Server</strong>, las versiones que utilizan son:
+Y por el lado de **Windows Server**, las versiones que utilizan son:
 
-<ul>
-    <li>Windows 10 Professional</li>
-    <li>Windows 2003 R2 Datacenter</li>
-    <li>Windows 2008 R2 Datacenter</li>
-    <li>Windows 2012 R2 Datacenter</li>
-    <li>Windows 2016 Datacenter</li>
-    <li>Windows 8.1 Professional</li>
-</ul>
+* Windows 10 Professional
+* Windows 2003 R2 Datacenter
+* Windows 2008 R2 Datacenter
+* Windows 2012 R2 Datacenter
+* Windows 2016 Datacenter
+* Windows 8.1 Professional
 
-Poseen también <strong>paneles de control</strong> preconfigurados con:
+Poseen también **paneles de control** preconfigurados con:
 
-<ul>
-    <li>Plesk 12 bajo Ubuntu 12.04</li>
-    <li>Plesk 12 bajo Windows 2012 R2</li>
-    <li>Plesk 12.5 bajo Ubuntu 14.04</li>
-    <li>Plesk Onyx bajo Ubuntu 16.04</li>
-    <li>VestaCP 0.9.8 bajo Ubuntu 14.04</li>
-</ul>
+* Plesk 12 bajo Ubuntu 12.04
+* Plesk 12 bajo Windows 2012 R2
+* Plesk 12.5 bajo Ubuntu 14.04
+* Plesk Onyx bajo Ubuntu 16.04
+* VestaCP 0.9.8 bajo Ubuntu 14.04
 
-Y por último, brindan también <strong>aplicaciones preconfiguradas</strong> como por ejemplo:
+Y por último, brindan también **aplicaciones preconfiguradas** como por ejemplo:
 
-<ul>
-    <li>Docker bajo Ubuntu 14.04</li>
-    <li>Magento 2.0 bajo Ubuntu 16.04</li>
-    <li>Prestashop 1.6.X bajo Ubuntu 16.04</li>
-</ul>
+* Docker bajo Ubuntu 14.04
+* Magento 2.0 bajo Ubuntu 16.04
+* Prestashop 1.6.X bajo Ubuntu 16.04
 
 Como ven hay una gama muy amplia de opciones. Se podría decir que no están todos los servicios disponibles como por ejemplo, los que tiene Digital Ocean, pero al ser un empresa que comenzó hace poco, los servicios son más que suficientes.Lo bueno es que todos los sistemas operativos usan versiones 64 bits, algo ideal para éstos tiempos.
 
 <img class=" size-full wp-image-4255 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/03/clouding1.png" alt="clouding1" width="1332" height="632" />
 
-<strong>¿Como hacer para tener un VPS en Clouding.io?</strong>
+**¿Como hacer para tener un VPS en Clouding.io?**
 
 Una ventaja que tenemos es que al registrarnos nos regala 5 euros de 10 que sale un VPS durante un mes (el más básico) por lo que solo vamos a pagar la mitad si lo probamos un mes completo.
 
 Otra opción interesante es que el servidor se paga por hora, es decir, que podemos cancelar el servicio a principio o mitad de mes y solo vamos a pagar por ese tiempo y no por el mes completo como otros servicios hacen.
 
-Empecemos el proceso de <strong>registro</strong>:
+Empecemos el proceso de **registro**:
 
 <img class=" size-full wp-image-4256 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/03/clouding2.png" alt="clouding2" width="1271" height="496" />
 
