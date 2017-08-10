@@ -1,10 +1,10 @@
 ---
 layout: post
-title: LG y Audi igual a SmartWatch con Open WebOS
+title: "LG y Audi igual a SmartWatch con Open WebOS"
 date: 2015-1-12
 author: neoranger
 comments: true
-categories: [Tecnologia, Android, Wearables]
+categories: [Tecnologia]
 ---
 <img class="  wp-image-2607 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/lg-audi-watch-webos-13m.jpg" alt="lg-audi-watch-webos-13m" width="301" height="225" />
 
@@ -16,6 +16,6 @@ Se preguntarán por qué acudieron a Audi y eso es porque el reloj se vincula co
 
 En este video pueden ver en acción a este SmartWatch que, aunque todavía no tiene nombre, es un dispositivo que se llevó las miradas de muchos y el asombro de otros tantos.
 
-<p style="text-align:center;">[embed]https://www.youtube.com/watch?v=_EGRJPNZvX4&amp;feature=youtu.be[/embed]</p>
+[![Exclusive: The LG Audi smartwatch runs webOS!](https://img.youtube.com/vi/EGRJPNZvX4/0.jpg)](https://www.youtube.com/watch?v=_EGRJPNZvX4 "Exclusive: The LG Audi smartwatch runs webOS!")
 
 <p style="text-align:left;">Mas info <a href="http://www.androidcentral.com/lg-audi-watch-android-wear-webos">ACA</a></p>
