@@ -17,6 +17,12 @@ Hubo muchísimas más charlas pero éstas son la que pude graba ya que me tuve q
 
 <a href="http://ar.ivoox.com/es/charla-flisol-2016-linux-who-gabriel-desimone-audios-mp3_rf_11285768_1.html" title="[Charla FLISOL 2016] Linux who? - Gabriel Desimone">[Charla FLISOL 2016] Linux who? - Gabriel Desimone</a>
 
+<audio id="audio" preload="auto" controls="" src="http://podcastcdn-16.ivoox.com/audio/8/6/7/5/charlaflisol2016linuxwhogabrieldes-killallradiopodcast-ivoox11285768.mp3?secure=JJyGCZL7RlcPYNQIAr2Ogg==,1502482094"></audio>
+
 <a href="http://ar.ivoox.com/es/charla-flisol-2016-vigilancia-electronica-christian-maran-audios-mp3_rf_11285705_1.html" title="[Charla FLISOL 2016] Vigilancia electronica - Christian Maran">[Charla FLISOL 2016] Vigilancia electronica - Christian Maran</a>
 
+<audio id="audio" preload="auto" controls="" src="http://podcastcdn-16.ivoox.com/audio/5/0/7/5/charlaflisol2016vigilanciaelectronic-killallradiopodcast-ivoox11285705.mp3?secure=bTM0ewU3YCW_RcbUB8P73w==,1502482157"></audio>
+
 <a href="http://ar.ivoox.com/es/charla-flisol-2016-ransomware-la-quintaesencia-del-formato-audios-mp3_rf_11285588_1.html" title="[Charla FLISOL 2016] Ransomware: La quintaesencia del formato propietario - Carlos Pantelides">[Charla FLISOL 2016] Ransomware: La quintaesencia del formato propietario - Carlos Pantelides</a>
+
+<audio id="audio" preload="auto" controls="" src="http://podcastcdn-16.ivoox.com/audio/8/8/5/5/charlaflisol2016ransomwarelaquintae-killallradiopodcast-ivoox11285588.mp3?secure=_nwkSGUVvY9XHZi2pL6bSw==,1502482209"></audio>

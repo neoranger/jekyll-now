@@ -14,6 +14,8 @@ Espero que les guste y que si quieren pueden suscribirse al <a href="http://www.
 
 <a href="http://ar.ivoox.com/es/neositelinux-podcast-3-ano-2015-el-audios-mp3_rf_5609071_1.html" title="NeoSiteLinux Podcast #3 - Año 2015 - El script milagroso y Windows 10">NeoSiteLinux Podcast #3 - Año 2015 - El script milagroso y Windows 10</a>
 
+<audio id="audio" preload="auto" controls="" src="http://podcastcdn-15.ivoox.com/audio/1/7/0/9/neositelinuxpodcast3ano2015el-killallradiopodcast-ivoox5609071.mp3?secure=7G9aNk6-rwa_qKMeOAZK6A==,1502482773"></audio>
+
 Les dejo el script del que hablo en el podcast, acuerdense que parece que solo andan en distros basadas en Ubuntu. Crea un archivo de texto (dandole como extension .sh para poder ejecutarlo) y pegale lo siguiente:
 ```
 #!/bin/sh

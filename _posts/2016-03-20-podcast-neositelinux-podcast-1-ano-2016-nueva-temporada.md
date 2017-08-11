@@ -14,8 +14,10 @@ Tuvimos gente de gran parte de Latinoamérica, a saber:
 -Por Venezuela: Tato
 -Por Argentina: Feskyde y un servidor
 
-Una charla amena donde tocamos muchos temas como por ejemplo <strong>"Telegram vs Whatsapp, pros y contras", "Saliendo de la zona de confort Linuxera", Telegram y sus problemas con la administración de grupos, una vista técnica y sociológica.</strong>
+Una charla amena donde tocamos muchos temas como por ejemplo *"Telegram vs Whatsapp, pros y contras", "Saliendo de la zona de confort Linuxera", Telegram y sus problemas con la administración de grupos, una vista técnica y sociológica.*
 
 Espero que les guste y que disfruten tanto como nosotros disfrutamos charlando. Saludos!!
 
 <a href="http://ar.ivoox.com/es/neositelinux-podcast-1-ano-2016-audios-mp3_rf_10873941_1.html" title="NeoSiteLinux Podcast #1 - Año 2016">NeoSiteLinux Podcast #1 - Año 2016</a>
+
+<audio id="audio" preload="auto" controls="" src="http://podcastcdn-16.ivoox.com/audio/1/4/9/3/neositelinuxpodcast1ano2016-killallradiopodcast-ivoox10873941.mp3?secure=kj3GV0k5A4UzYLWseZsHww==,1502482647"></audio>
