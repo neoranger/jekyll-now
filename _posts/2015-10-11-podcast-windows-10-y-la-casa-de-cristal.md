@@ -10,6 +10,6 @@ Por motivos ajenos al blog recién ahora puedo postear esto. El día viernes con
 
 Toda esta conversación que se plasmó pudimos grabarla (ya que salió la idea en el grupo de Telegram de subirse a Mumble al instante) y esto es lo que salió. Espero que les guste y esperamos sus comentarios.
 
-<a href="https://www.ivoox.com/player_ej_8891276_4_1.html?c1=ff6600">https://www.ivoox.com/player_ej_8891276_4_1.html?c1=ff6600</a>
+<audio id="audio" preload="auto" controls="" src="http://podcastcdn-15.ivoox.com/audio/6/7/2/1/18windows10casacirstal-killallradiopodcast-ivoox8891276.mp3?secure=CaqQjGSrBpBpDmQ-gwZKog==,1502486818"></audio>
 
 <strong><a href="https://killallradio.wordpress.com/2015/10/10/windows-10-y-la-casa-de-cristal/">FUENTE</a></strong>
