@@ -23,4 +23,4 @@ Acá el audio. Agradecemos que lo compartas con todos!
 
 <a href="http://ar.ivoox.com/es/neositelinux-podcast-2017-0-eligiendo-a-audios-mp3_rf_19666910_1.html" title="NeoSiteLinux Podcast 2017 - #0 - Eligiendo a Manjaro Plasma como distro definitiva.">NeoSiteLinux Podcast 2017 #0 - Eligiendo Manjaro Plasma como distro definitiva</a>
 
-<audio id="audio" preload="auto" controls="" src="http://ar.ivoox.com/es/neositelinux-podcast-2017-0-eligiendo-a-audios-mp3_rf_19666910_1.html"></audio>
+<audio id="audio" preload="auto" controls="" src="http://podcastcdn-18.ivoox.com/audio/0/1/9/6/1499379886_neositelinuxpodcast20170eligiendoa-killallradiopodcast-ivoox19666910.mp3?secure=QS7dsZdNx-1X1NmiLBfo7A==,1502481908"></audio>
