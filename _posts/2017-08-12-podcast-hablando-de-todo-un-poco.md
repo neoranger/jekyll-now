@@ -19,7 +19,10 @@ Como estuve corto de tiempo no pude explayarme más en los temas pero es algo qu
 Espero que les guste éste episodio del podcast. Cualquier duda o sugerencia no duden en escribirme.
 
 ### Audio directo del blog
-<audio id="audio" preload="auto" controls="" src="https://github.com/neoranger/neoranger.github.io/blob/master/audios/2017/NeoSiteLinux%20Podcast%202017%20-%20%231.ogg"></audio>
+<audio controls>
+  <source src="https://github.com/neoranger/neoranger.github.io/blob/master/audios/2017/NeoSiteLinux%20Podcast%202017%20-%20%231.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
 
 ### Escuchalo si querés en Ivoox: 
 <a href="http://ar.ivoox.com/es/neositelinux-podcast-2017-1-un-poco-de-audios-mp3_rf_20294550_1.html" title="NeoSiteLinux Podcast 2017 - #1 Un poco de todo">NeoSiteLinux Podcast 2017 #0 - Eligiendo Manjaro Plasma como distro definitiva</a>
