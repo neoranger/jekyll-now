@@ -20,7 +20,7 @@ Espero que les guste éste episodio del podcast. Cualquier duda o sugerencia no 
 
 ### Audio directo del blog
 <audio controls>
-  <source src="https://github.com/neoranger/neoranger.github.io/blob/master/audios/2017/NeoSiteLinux%20Podcast%202017%20-%20%231.ogg" type="audio/ogg">
+  <source src="https://github.com/neoranger/neoranger.github.io/blob/master/audios/2017/NeoSiteLinux%20Podcast%202017%20-%20%231.ogg?raw=true" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 
