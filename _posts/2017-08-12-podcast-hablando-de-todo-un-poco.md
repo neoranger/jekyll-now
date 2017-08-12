@@ -25,4 +25,4 @@ Your browser does not support the audio element.
 </audio>
 
 ### Escuchalo si querés en Ivoox: 
-<a href="http://ar.ivoox.com/es/neositelinux-podcast-2017-1-un-poco-de-audios-mp3_rf_20294550_1.html" title="NeoSiteLinux Podcast 2017 - #1 Un poco de todo">NeoSiteLinux Podcast 2017 #0 - Eligiendo Manjaro Plasma como distro definitiva</a>
+<a href="http://ar.ivoox.com/es/neositelinux-podcast-2017-1-un-poco-de-audios-mp3_rf_20294550_1.html" title="NeoSiteLinux Podcast 2017 - #1 Un poco de todo">NeoSiteLinux Podcast 2017 - #1 Un poco de todo</a>
