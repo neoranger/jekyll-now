@@ -23,3 +23,7 @@ Example:
 
 ![_Logo ]({{ site.baseurl }}/images/link.PNG)
 
+Insertando frame de Youtube gracias al youtubePlayer que se agregó.
+
+Ejemplo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nnXdCZK6Msw" frameborder="0" allowfullscreen></iframe>
