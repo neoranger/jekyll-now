@@ -12,4 +12,4 @@ Les hablo del micrófono **Audio Technica ATR2100-USB**. Esta gran herramienta n
 
 Les dejo una review del micro para que vean lo bueno que es, con sus pro y sus contras. Para un podcast común y corriente, sin tanto presupuesto es una muy buena opción. Tampoco gastaríamos tanto dinero ya que con el micro solo nos alcanzaría.
 
-[![Audio Technica ATR2100-USB Review / Test](https://img.youtube.com/vi/mLpaNy6JzPg/0.jpg)](https://www.youtube.com/watch?v=mLpaNy6JzPg "Audio Technica ATR2100-USB Review / Test")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mLpaNy6JzPg" frameborder="0" allowfullscreen></iframe>

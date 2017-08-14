@@ -11,5 +11,4 @@ La idea es poder comprarla para empezar a grabar los podcasts como los oyentes l
 
 Les dejo el video por si están interesados o están buscando algo parecido. Atención que se vienen cosas buenas!
 
-[![Behringer U-Phoria UMC22 Review / Test](https://img.youtube.com/vi/FLNDxdtBGVc/0.jpg)](https://www.youtube.com/watch?v=FLNDxdtBGVc "Behringer U-Phoria UMC22 Review / Test")
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLNDxdtBGVc" frameborder="0" allowfullscreen></iframe>
