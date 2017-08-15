@@ -15,8 +15,8 @@ Por eso, para acceder al mismo desde cualquier equipo (al hacer commit y push a 
 
 Ahí podemos tirar todo lo que querramos ya que no será publicado hasta que no pasemos ese artículo a la carpeta **_posts**.
 
-Y como se darán cuenta, ahora si escriben [neositelinux.com](http://neositelinux.com) los traeráal blog en github, por lo que podemos decir que ya estamos al 90% de estar mudados del todo. Lo que me falta investigar un poco más es el tema de que el dominio .com no tiene HTTPS, pero eso es algo que tengo que ver bien como lo maneja Wordpress.
+Y como se darán cuenta, ahora si escriben [neositelinux.com](http://neositelinux.com) los traerá al blog en github, por lo que podemos decir que ya estamos al 90% de estar mudados del todo. Lo que me falta investigar un poco más es el tema de que el dominio .com no tiene HTTPS, pero eso es algo que tengo que ver bien como lo maneja Wordpress.
 
-Lo bueno es que la URL [neoranger.github.io](https://neoranger.github.io) sigue funcionando sin problemas, por lo que hace que tengamos 2 opciones para que los seguidores puedan encontrarnos.
+Lo bueno es que la URL [neoranger.github.io](https://neoranger.github.io) sigue funcionando sin problemas, por lo que hace que tengamos 2 opciones para que los seguidores puedan encontrarnos. Hará la redirección al .com pero funciona sin problemas.
 
 Los mantengo al tanto de las novedades sobre ésto.
