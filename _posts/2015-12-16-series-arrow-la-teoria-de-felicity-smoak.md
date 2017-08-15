@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arrow: La teoria de Felicity Smoak
+title: "Arrow: La teoria de Felicity Smoak"
 date: 2015-12-16
 author: neoranger
 comments: true

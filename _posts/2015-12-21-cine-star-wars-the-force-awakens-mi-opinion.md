@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Star Wars: The Force Awakens - Mi Opinion
+title: "Star Wars: The Force Awakens - Mi Opinion"
 date: 2015-12-21
 author: neoranger
 comments: true

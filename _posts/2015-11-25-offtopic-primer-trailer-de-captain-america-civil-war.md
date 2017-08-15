@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primer trailer de "Captain America: Civil War"
+title: "Primer trailer de Captain America: Civil War"
 date: 2015-11-25
 author: neoranger
 comments: true
@@ -12,4 +12,4 @@ Y tambien tenemos el primer vistazo oficial de Black Panther!!
 
 Vean este imperdible trailer que, sorprendentemente, es mas largo que de costumbre por ser el primero.
 
-[youtube https://www.youtube.com/watch?v=43NWzay3W4s]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43NWzay3W4s" frameborder="0" allowfullscreen></iframe>

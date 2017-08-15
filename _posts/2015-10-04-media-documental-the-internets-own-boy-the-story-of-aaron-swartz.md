@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Documental: "The internet's Own Boy: The story of Aaron Swartz"
+title: "Documental: The internet's Own Boy: The story of Aaron Swartz"
 date: 2015-10-04
 author: neoranger
 comments: true
@@ -15,4 +15,4 @@ El documental es absolutamente increíble y muestra muchas de las cosas de estos
 
 Les dejo el documental directo desde Youtube donde puede elegir los subtitulos en español.
 
-[embed]https://www.youtube.com/watch?v=vXr-2hwTk58[/embed]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vXr-2hwTk58" frameborder="0" allowfullscreen></iframe>

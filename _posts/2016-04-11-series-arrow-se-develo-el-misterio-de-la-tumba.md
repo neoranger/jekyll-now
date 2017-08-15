@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arrow: Se develó el misterio de la tumba
+title: "Arrow: Se develó el misterio de la tumba"
 date: 2016-04-11
 author: neoranger
 comments: true

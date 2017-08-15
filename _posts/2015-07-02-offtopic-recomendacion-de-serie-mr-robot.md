@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Recomendación de Serie: Mr. Robot
+title:  "Recomendación de Serie: Mr. Robot"
 date: 2015-07-02
 author: neoranger
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Confirmado: Habrá Ubuntu versión MATE oficial
+title: "Confirmado: Habrá Ubuntu versión MATE oficial"
 date: 2014-07-11
 author: neoranger
 comments: true

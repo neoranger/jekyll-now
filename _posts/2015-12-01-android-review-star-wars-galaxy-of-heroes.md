@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review - Star Wars: Galaxy of Heroes
+title: "Review - Star Wars: Galaxy of Heroes"
 date: 2015-12-01
 author: neoranger
 comments: true

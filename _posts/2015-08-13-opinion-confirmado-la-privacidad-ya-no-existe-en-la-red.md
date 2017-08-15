@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Confirmado: La privacidad ya no existe en la red
+title: "Confirmado: La privacidad ya no existe en la red"
 date: 2015-08-13
 author: neoranger
 comments: true
@@ -19,4 +19,4 @@ Yo cuando lo vi quedé atónito, obviamente no pregunté nada para no generar pr
 Ahí me cayó la ficha, me di cuenta del mal de las redes sociales y de la misma hiperconectividad que esto conlleva. Uno cree que está a salvo pero cuando ve cosas como estas piensa: "donde más podría estar mi foto impresa o incluso usada para que una persona se haga pasar por mi?".
 
 Uno no cree en eso hasta que lo vive en carne propia pero estamos en el 2015 y como una vez escuché en la radio:
-<blockquote>"Entregamos nuestra privacidad a cambio de sociabilidad global"</blockquote>
+**"Entregamos nuestra privacidad a cambio de sociabilidad global"**
