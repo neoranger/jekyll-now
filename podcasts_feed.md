@@ -48,3 +48,9 @@ Nombre: EL DJ Informático
 * Feed: [http://www.ivoox.com/rebasando-horizonte_fg_f1404041_filtro_1.xml](http://www.ivoox.com/rebasando-horizonte_fg_f1404041_filtro_1.xml)
 
 ---
+
+* Nombre: MosqueteroWeb
+* Descripción: Linux, servidores y tecnología
+* Contacto: [@MosqueteroWeb](https://www.twitter.com/mosqueteroweb)
+* Feed: [http://www.ivoox.com/mosqueteroweb-tecnologia-linux-ajedrez_fg_f1248962_filtro_1.xml](http://www.ivoox.com/mosqueteroweb-tecnologia-linux-ajedrez_fg_f1248962_filtro_1.xml)
+
