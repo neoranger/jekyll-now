@@ -65,4 +65,4 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 [23]: http://www.ivoox.com/rebasando-horizonte_fg_f1404041_filtro_1.xml
 [24]: https://www.ivoox.com/digital-life-2-0_fg_f1122589_filtro_1.xml
 [25]: https://bairot.github.io/agdc/
-[26]: http://www.podcasts.com/a-golpes-de-click-0c582b5bc
+[26]: http://mx.ivoox.com/es/escuchar-a-golpes-click_nq_330712_1.html
