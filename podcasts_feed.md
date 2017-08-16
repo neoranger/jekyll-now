@@ -57,12 +57,19 @@ Nombre: EL DJ Informático
 ---
 
 * Nombre: Snifer@L4b's 
-* Descripción: Proyecto de seguridad informática a veces temas de Linux cuando sale algo relacionad9 a la Seguridad 
+* Descripción: Proyecto de seguridad informática a veces temas de Linux cuando sale algo relacionado a la Seguridad 
 * Blog: [http://sniferl4bs.com](http://sniferl4bs.com)
 * Podcast - Dame una Shell
 * Ivoox: [https://goo.gl/AqP8mS](https://goo.gl/AqP8mS)
 * Canal de Youtube: [http://bit.ly/2i2dKHA](http://bit.ly/2i2dKHA)
 * Github: [https://github.com/snifer](https://github.com/snifer)
 * Twitter: [@sniferl4bs](https://www.twitter.com/sniferl4bs)
+
+---
+
+* Nombre: NeoSiteLinux Podcast (_no podíamos faltar nosotros, jejejeje_)
+* Descripción: Software Libre y mas! 
+* Web: [neositelinux.com](neositelinux.com)
+* Feed: [http://ar.ivoox.com/es/neositelinux-podcast_fg_f1169111_filtro_1.xml](http://ar.ivoox.com/es/neositelinux-podcast_fg_f1169111_filtro_1.xml)
 
 ---
