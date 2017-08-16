@@ -13,3 +13,4 @@ El unboxing no es mas que del micrófono Samson R21S que adquirí hace poco y qu
 
 Sin más, les dejo el video. Que lo disfruten!!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BgPSZr3m2no" frameborder="0" allowfullscreen></iframe>
