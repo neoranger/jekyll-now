@@ -52,6 +52,8 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 * [Las Crónicas del Linuxverso (feed)][22]
 * [Rebasanzo el Horizote(feed)][23]
 * [Digital Life 2.0(feed)][24]
+* [A Golpes de Click][25]
+* [A Golpes de Click (feed)][26]
 
 [6]: https://podcastlinux.github.io
 [7]: https://ugeek.github.io
@@ -62,3 +64,5 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 [22]: http://ar.ivoox.com/es/cronicas-del-linuxverso_fg_f1444265_filtro_1.xml
 [23]: http://www.ivoox.com/rebasando-horizonte_fg_f1404041_filtro_1.xml
 [24]: https://www.ivoox.com/digital-life-2-0_fg_f1122589_filtro_1.xml
+[25]: https://bairot.github.io/agdc/
+[26]: http://www.podcasts.com/a-golpes-de-click-0c582b5bc
