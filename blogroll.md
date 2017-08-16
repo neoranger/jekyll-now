@@ -48,9 +48,17 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 * [KillAllRadio][8]
 * [SalmorejoGeek Podcast][9]
 * [NeoSiteLinux Podcast][20]
+* [Ubuntu y otras Hierbas][21]
+* [Las Crónicas del Linuxverso (feed)][22]
+* [Rebasanzo el Horizote(feed)][23]
+* [Digital Life 2.0(feed)][24]
 
 [6]: https://podcastlinux.github.io
 [7]: https://ugeek.github.io
 [8]: http://www.killallradio.tk
 [9]: http://ar.ivoox.com/es/podcast-salmorejo-geek_sq_f1206500_1.html
 [20]: http://ar.ivoox.com/es/podcast-neositelinux-podcast_sq_f1169111_1.html
+[21]: https://www.youtube.com/playlist?list=PLrtOacI496LQE-2js3gwgv2upN72zJpO8
+[22]: http://ar.ivoox.com/es/cronicas-del-linuxverso_fg_f1444265_filtro_1.xml
+[23]: http://www.ivoox.com/rebasando-horizonte_fg_f1404041_filtro_1.xml
+[24]: https://www.ivoox.com/digital-life-2-0_fg_f1122589_filtro_1.xml
