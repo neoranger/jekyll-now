@@ -54,6 +54,7 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 * [Digital Life 2.0(feed)][24]
 * [A Golpes de Click][25]
 * [A Golpes de Click (feed)][26]
+* [Compilando Podcast][27]
 
 [6]: https://podcastlinux.github.io
 [7]: https://ugeek.github.io
@@ -66,3 +67,4 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 [24]: https://www.ivoox.com/digital-life-2-0_fg_f1122589_filtro_1.xml
 [25]: https://bairot.github.io/agdc/
 [26]: http://mx.ivoox.com/es/escuchar-a-golpes-click_nq_330712_1.html
+[27]: https://compilando.audio/
