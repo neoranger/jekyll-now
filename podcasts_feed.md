@@ -54,3 +54,15 @@ Nombre: EL DJ Informático
 * Contacto: [@MosqueteroWeb](https://www.twitter.com/mosqueteroweb)
 * Feed: [http://www.ivoox.com/mosqueteroweb-tecnologia-linux-ajedrez_fg_f1248962_filtro_1.xml](http://www.ivoox.com/mosqueteroweb-tecnologia-linux-ajedrez_fg_f1248962_filtro_1.xml)
 
+---
+
+* Nombre: Snifer@L4b's 
+* Descripción: Proyecto de seguridad informática a veces temas de Linux cuando sale algo relacionad9 a la Seguridad 
+* Blog: [http://sniferl4bs.com](http://sniferl4bs.com)
+* Podcast - Dame una Shell
+* Ivoox: [https://goo.gl/AqP8mS](https://goo.gl/AqP8mS)
+* Canal de Youtube: [http://bit.ly/2i2dKHA](http://bit.ly/2i2dKHA)
+* Github: [https://github.com/snifer](https://github.com/snifer)
+* Twitter: [@sniferl4bs](https://www.twitter.com/sniferl4bs)
+
+---
