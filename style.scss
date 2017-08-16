@@ -5,9 +5,10 @@
 // IMPORTS
 //
 
-@import "reset";
-@import "variables";
+@import "_reset";
+@import "_variables";
 // Syntax highlighting @import is at the bottom of this file
+
 
 /**************/
 /* BASE RULES */
@@ -18,23 +19,27 @@ html {
 }
 
 body {
-       background-image: url(../images/background.jpg);
+  
+/*  background-image: url(../images/dots_background.jpg);*/
+  background: $white
   font: 18px/1.4 $helvetica;
   color: $white;
 }
 
 .container {
+  background: #2E2C31;
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  opacity: 0.9;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: green;
   font-weight: bold;
-
+  
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -43,25 +48,27 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.4;
   }
 }
-
-h1 {
+  
+h1 {  
   font-size: 30px;
   a {
-    color: inherit;
+    color: green;
   }
 }
 
-h2 {
+h2 {  
   font-size: 24px;
+  color: white;
 }
 
-h3 {
+h3 {  
   font-size: 20px;
+  color: white;
 }
 
-h4 {
+h4 {  
   font-size: 18px;
-  color: $gray;
+  color: gray;
 }
 
 p {
@@ -69,11 +76,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: yellow;
   }
 }
 
@@ -108,11 +115,6 @@ strong, b {
 
 img {
   max-width: 100%;
-}
-
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
 }
 
 .date {
@@ -152,12 +154,14 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  opacity: 0.9;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-
+  
+  
+  
   @include mobile {
     text-align: center;
   }
@@ -192,9 +196,9 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $lightGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $helveticaNeue; 
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -202,9 +206,9 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $lightGray;
   font-size: 16px;
-
+  
   @include mobile {
     margin: 3px 0;
   }
@@ -213,9 +217,9 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $helveticaNeue; 
   font-size: 18px;
-
+  
   @include mobile {
     float: none;
     margin-top: 9px;
@@ -225,7 +229,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -251,7 +255,7 @@ nav {
   border-bottom: none;
 }
 
-.post {
+.post { 
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -273,9 +277,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  opacity: 0.9;
 }
 
 footer {
