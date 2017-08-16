@@ -67,6 +67,13 @@ Nombre: EL DJ Informático
 
 ---
 
+* Nombre: Compilando Podcast
+* Descripción: Un podcast sobre GNU Linux y Software Libre
+* Web: [https://compilando.audio/](https://compilando.audio/)
+* Feed: [http://compilando.audio/index.php/feed/podcast/](http://compilando.audio/index.php/feed/podcast/)
+
+---
+
 * Nombre: NeoSiteLinux Podcast (_no podíamos faltar nosotros, jejejeje_)
 * Descripción: Software Libre y mas! 
 * Web: [neositelinux.com](neositelinux.com)
