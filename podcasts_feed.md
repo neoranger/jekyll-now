@@ -74,6 +74,13 @@ Nombre: EL DJ Informático
 
 ---
 
+* Nombre: El podcast de la Red de Mario
+* Descripción: Un repaso a la actualidad tecnológica de una manera desenfadada en el que aporto mi punto de vista totalmente irrelevante.
+* Web: [https://www.youtube.com/user/lareddemario](https://www.youtube.com/user/lareddemario)
+* Feed: [http://ar.ivoox.com/es/red-mario_fg_f1260545_filtro_1.xml](http://ar.ivoox.com/es/red-mario_fg_f1260545_filtro_1.xml)
+
+---
+
 * Nombre: NeoSiteLinux Podcast (_no podíamos faltar nosotros, jejejeje_)
 * Descripción: Software Libre y mas! 
 * Web: [neositelinux.com](neositelinux.com)
