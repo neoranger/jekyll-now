@@ -19,7 +19,8 @@ Algunos requisitos antes de instalar Etherpad son:
 
 ### Empezamos con la instalación de Etherpad:
 
-1. Como root instalar: `apt-get install gzip git curl python libssl-dev pkg-config build-essential` (seguramente algunos paquetes ya deben estar instalados)
+1. Como root instalar: 
+* `apt-get install gzip git curl python libssl-dev pkg-config build-essential` **(seguramente algunos paquetes ya deben estar instalados)**
 2. Vamos a movernos a la carpeta /opt y crearemos un directorio para alojar Etherpad ahí mismo:
 * `cd /opt`
 * `mkdir etherpad`
