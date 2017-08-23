@@ -7,7 +7,7 @@ comments: true
 categories: [Informacion, Aporte]
 ---
 
-<center>![_Logo ]({{ site.baseurl }}/images/etherpad_nsl.jpg)</center>
+![_Logo ]({{ site.baseurl }}/images/etherpad_nsl.jpg)
 
 Hace un rato estuvimos barajando, con los colaboradores del [Maratón Linuxero](https://maratonlinuxero.github.io) estábamos viendo de buscar otra opción a usar Google Docs ya que el formato que utiliza es privativo y como queremos demostrar que con GNU/Linux si se puede, decidimos montar un Etherpad en el VPS donde tenemos armado el servidor Jitsi para el día de el Maratón demostrando que podemos organizar todo con software libre.
 
