@@ -21,15 +21,15 @@ Algunos requisitos antes de instalar Etherpad son:
 
 1. Como root instalar: `apt-get install gzip git curl python libssl-dev pkg-config build-essential` (seguramente algunos paquetes ya deben estar instalados)
 2. Vamos a movernos a la carpeta /opt y crearemos un directorio para alojar Etherpad ahí mismo:
-`cd /opt`
-`mkdir etherpad`
+* `cd /opt`
+* `mkdir etherpad`
 3. Lo que haremos ahora será clonar el repositorio de Etherpad en Github en el directorio creado (por eso necesitamos tener instalado git de antemano):
-`git clone git://github.com/ether/etherpad-lite.git `
+* `git clone git://github.com/ether/etherpad-lite.git `
 4. Ingresamos al directorio etherpad-lite que acabamos de clonar:
-`cd etherpad`
-`cd etherpad-lite`
+* `cd etherpad`
+* `cd etherpad-lite`
 5. Ejecutamos el servidor:
-`./bin/run.sh`
+* `./bin/run.sh`
 
 Una vez que lo ejecutamos vamos a poder ingrear a nuestro etherpad de manera local utilizando la URL: `http://127.0.0.1:9001/`. Esta URL obviamente solo puede verse en la red local en donde estemos. Si queremos utilizar etherpad de manera pública deberíamos tener una IP publica (si es fija mejor, así no tenés que estar cambiando en la configuración todo el tiempo) la cual tenemos que configurar o mejor tener un dominio propio.
 
