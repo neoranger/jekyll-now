@@ -16,6 +16,7 @@ Con [Etherpad](https://github.com/ether/etherpad-lite) podemos generar documento
 Algunos requisitos antes de instalar Etherpad son:
 * [Instalar NodeJS](http://nodejs.org/)
 * Instalar Git (el paquete es `git` en cualquier distribución)
+* Se recomienda crear un usuario específico para ésto para no tener problemas.
 
 ### Empezamos con la instalación de Etherpad:
 
