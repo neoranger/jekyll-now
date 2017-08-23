@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conky Manager - Configurá tu Conky de manera muy facil
+title: "Conky Manager - Configurá tu Conky de manera muy facil"
 date: 2013-07-26
 author: neoranger
 comments: true
