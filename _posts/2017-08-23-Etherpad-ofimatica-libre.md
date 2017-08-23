@@ -14,7 +14,7 @@ Hace un rato estuvimos barajando, con los colaboradores del [Maratón Linuxero](
 Con [Etherpad](https://github.com/ether/etherpad-lite) podemos generar documentos colaborativos sin requerimiento de logueo previo (aunque se puede configurar para tener una mayor seguridad) y de una manera super fácil. Lo que vamos a hacer hoy es instalar de manera local a Etherpad para poder usarlo como servidor de trabajo.
 
 Algunos requisitos antes de instalar Etherpad son:
-* [Instalarde NodeJS](http://nodejs.org/)
+* [Instalar NodeJS](http://nodejs.org/)
 * Instalar Git (el paquete es `git` en cualquier distribución)
 
 ### Empezamos con la instalación de Etherpad:
