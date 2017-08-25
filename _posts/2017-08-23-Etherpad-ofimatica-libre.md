@@ -38,3 +38,18 @@ Una vez que lo ejecutamos vamos a poder ingrear a nuestro etherpad de manera loc
 Para configurar Etherpad como querramos deberemos editar el archivo **settings.json** en el cual podemos cambiar desde el nombre de nuestro servidor así como cualquier parámetro de configuración o seguridad que tiene Etherpad.
 
 Recomiendo mucho que lo prueben (si quieren pueden hacerlo en una máquina virtual solo para probar) ya que es excelente para trabajar en equipo y viene muy bien para aprender un poco más sobre la ofimática libre.
+
+Lo bueno que tiene es que Etherpad se nutre de plugins que crea la comunidad, por lo que podemos darle muy buenas funciones a nuestro servidor Etherpad gracias al Plugin Manager, como por ejemplo:
+* Lista de Pads
+* Administración de Pads (no, no viene por defecto)
+* Embeber archivos multimedia
+* Inserción de archivos
+* Soporte para Markdown
+* Login (para que tenga un poco de seguridad)
+* Chats On/Off
+* Soporte para Copiar, Pegar, Buscar y Reemplazar
+* Dibujos colaborativos (al estilo pizarrón)
+* Y un largo etcétera...
+
+![_Logo ]({{ site.baseurl }}/images/etherpad_nsl2.jpg)
+
