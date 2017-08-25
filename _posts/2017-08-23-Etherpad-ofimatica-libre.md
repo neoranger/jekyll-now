@@ -39,7 +39,7 @@ Para configurar Etherpad como querramos deberemos editar el archivo **settings.j
 
 Recomiendo mucho que lo prueben (si quieren pueden hacerlo en una máquina virtual solo para probar) ya que es excelente para trabajar en equipo y viene muy bien para aprender un poco más sobre la ofimática libre.
 
-Lo bueno que tiene es que Etherpad se nutre de plugins que crea la comunidad, por lo que podemos darle muy buenas funciones a nuestro servidor Etherpad gracias al Plugin Manager, como por ejemplo:
+Lo bueno que tiene es que Etherpad [se nutre de plugins](https://static.etherpad.org/plugins.html) que crea la comunidad, por lo que podemos darle muy buenas funciones a nuestro servidor Etherpad gracias al Plugin Manager, como por ejemplo:
 * Lista de Pads
 * Administración de Pads (no, no viene por defecto)
 * Embeber archivos multimedia
