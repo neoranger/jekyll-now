@@ -11,7 +11,7 @@ Buenas a todos!! Hoy les traigo otro unboxing de la fantástica interfaz USB de 
 
 Sin mas, les dejo el unboxing. Espero que les guste.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HeI_SM6orzM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uypYIdDKZS8" frameborder="0" allowfullscreen></iframe>
 
 Seguinos en:
 * Twitter: [https://www.twitter.com/neositelinux](https://www.twitter.com/neositelinux)
