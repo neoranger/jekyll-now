@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<div class="posts">
-
-  <form action="{{ site.baseurl }}/search.html" method="get">
-  	<label for="search-box">Search</label>
+<form action="{{ site.baseurl }}search" method="get">
+	<label for="search-box">Search</label>
   	<input type="text" id="search-box" name="query">
   	<input type="submit" value="search">
-  </form>
+</form>
+
+<div class="posts">
 
   {% for post in site.posts  limit:15 %}
         <article class="post">
