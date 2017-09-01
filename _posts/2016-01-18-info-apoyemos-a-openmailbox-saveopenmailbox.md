@@ -8,7 +8,7 @@ categories: [Informacion]
 ---
 <img class="  wp-image-2672 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/openmailbox.jpg" alt="openmailbox" width="413" height="275" />
 
-Por si no sabías, <a href="http://www.openmailbox.org">OpenMailBox</a> es un cliente de correo que se basa en la privacidad, la robustez, su servicio de nube propia integrado (OwnCloud) y gracias a esto, un alojamiento casi ilimitado.
+Por si no sabías, [OpenMailBox](http://www.openmailbox.org) es un cliente de correo que se basa en la privacidad, la robustez, su servicio de nube propia integrado (OwnCloud) y gracias a esto, un alojamiento casi ilimitado.
 
 Bueno, el proyecto al ser a pulmón tal como cualquier proyecto abierto necesita financiarse de alguna manera y lo hacen obviamente con donaciones de usuarios, ya que no tiene ningún tipo de publicidad.
 
@@ -20,6 +20,6 @@ Ingresando a su web se puede donar de varias formas posibles, desde PayPal hasta
 
 Les dejo un post del amigo Yoyo Fernandez el cual junto con varios blogueros mas hicieron un podcast hablando sobre este tema para que conozcamos mas sobre este proyecto y la forma de poder ayudar.
 
-<h2 class="post-title entry-title"><a href="http://salmorejogeek.com/2016/01/16/apoyando-a-openmailbox-savetheopenmailbox/" rel="bookmark">Apoyando a OpenMailBox #SaveTheOpenMailBox</a></h2>
+[Apoyando a OpenMailBox #SaveTheOpenMailBox](https://salmorejogeek.com/2016/01/16/apoyando-a-openmailbox-savetheopenmailbox/)
 
 Por cualquier duda podés escribirme a neoranger@openmailbox.org
