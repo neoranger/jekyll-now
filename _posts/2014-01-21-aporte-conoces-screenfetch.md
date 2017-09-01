@@ -31,4 +31,4 @@ Para lanzar el programa escribimos en una terminal "screenfetch", pero si querem
 
 Recordá que si añadís ésta última linea el terminal tardara un tiempo de 1 segundo más en iniciar, así que si no quieres eso siempre podrás abrir tu terminal y escribir screenfetch para ver el efecto.
 
-<div style="background-color:white;color:#333333;font-size:13px;"><span style="font-family:Helvetica Neue, Arial, Helvetica, sans-serif;"><a href="http://www.droidypc.com/2014/01/personaliza-tu-terminal-con-screenfetch.html" target="_blank">FUENTE</a></span></div>
+[FUENTE](http://www.droidypc.com/2014/01/personaliza-tu-terminal-con-screenfetch.html)
