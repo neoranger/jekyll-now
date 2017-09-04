@@ -18,15 +18,15 @@ Les dejo nuestra participación en éste gran evento tanto en formato Youtube (e
 
 [FORMATO SOLO AUDIO](https://maratonlinuxero.github.io/8directo/)
 
-Seguí al Maratón en la redes sociales:
-Blog: [https://maratonlinuxero.github.io/](https://maratonlinuxero.github.io/)
-Telegram: [https://t.me/maratonlinuxero](https://t.me/maratonlinuxero)
-Mastodon: [https://mastodon.social/@maratonlinuxero](https://mastodon.social/@maratonlinuxero)
-Twitter: [https://twitter.com/maratonlinuxero](https://twitter.com/maratonlinuxero)
-Correo: [maratonlinuxero@gmail.com](maratonlinuxero@gmail.com)
-Youtube: [https://www.youtube.com/maratonlinuxero](https://www.youtube.com/maratonlinuxero)
-Radio Maratón: [http://www.radiomaraton.ml](http://www.radiomaraton.ml)
-Feed Podcast Maratón Linuxero: [http://maratonlinuxero.github.io/feed.xml](http://maratonlinuxero.github.io/feed.xml)
-Feed Podcast Maratón Linuxero formato ogg: [http://maratonlinuxero.github.io/feed_ogg.rss](http://maratonlinuxero.github.io/feed_ogg.rss)
-Audios en Archive.org: [https://archive.org/details/@maratonlinuxero](https://archive.org/details/@maratonlinuxero)
+#### Seguí al Maratón en la redes sociales:
+* Blog: [https://maratonlinuxero.github.io/](https://maratonlinuxero.github.io/)
+* Telegram: [https://t.me/maratonlinuxero](https://t.me/maratonlinuxero)
+* Mastodon: [https://mastodon.social/@maratonlinuxero](https://mastodon.social/@maratonlinuxero)
+* Twitter: [https://twitter.com/maratonlinuxero](https://twitter.com/maratonlinuxero)
+* Correo: [maratonlinuxero@gmail.com](maratonlinuxero@gmail.com)
+* Youtube: [https://www.youtube.com/maratonlinuxero](https://www.youtube.com/maratonlinuxero)
+* Radio Maratón: [http://www.radiomaraton.ml](http://www.radiomaraton.ml)
+* Feed Podcast Maratón Linuxero: [http://maratonlinuxero.github.io/feed.xml](http://maratonlinuxero.github.io/feed.xml)
+* Feed Podcast Maratón Linuxero formato ogg: [http://maratonlinuxero.github.io/feed_ogg.rss](http://maratonlinuxero.github.io/feed_ogg.rss)
+* Audios en Archive.org: [https://archive.org/details/@maratonlinuxero](https://archive.org/details/@maratonlinuxero)
 
