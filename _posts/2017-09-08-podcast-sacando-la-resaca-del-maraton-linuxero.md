@@ -25,3 +25,8 @@ Hola a todos! Hoy les traigo el tercer episodio de la tercera temporada de NeoSi
 * Feed Podcast Maratón Linuxero formato ogg: [http://maratonlinuxero.github.io/feed_ogg.rss](http://maratonlinuxero.github.io/feed_ogg.rss)
 * Audios en Archive.org: [https://archive.org/details/@maratonlinuxero](https://archive.org/details/@maratonlinuxero)
 
+Seguinos en las redes sociales:
+* Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
+* Facebook: [NeoSiteLinux](https://facebook.com/neositelinux)
+* Telegram (canal): [@NeoSiteLinux](https://t.me/neositelinux)
+* Youtube: [NeoSiteLinux](https://www.youtube.com/user/neositelinux)
