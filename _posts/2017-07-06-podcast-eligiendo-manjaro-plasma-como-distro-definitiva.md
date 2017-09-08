@@ -12,15 +12,14 @@ Con el gran aluvión de podcasts en habla hispana, quisimos volver a hacer el po
 
 En éste podcast voy a tratar de la temática del título de ésta entrada. Cómo es que Manjaro Plasma se transformó en mi distro definitiva.
 
-Seguinos en:
-Twitter: <a href="http://www.twitter.com/NeoSiteLinux">www.twitter.com/NeoSiteLinux</a>
-
-Telegram:&nbsp;<a href="http://ar.ivoox.com/es/link_i3_1.html?url=https://t.me/neositelinux" target="_blank" rel="nofollow noopener">https://t.me/neositelinux</a>
-
-Facebook: <a href="http://www.facebook.com/neositelinux">www.facebook.com/neositelinux</a>
+Seguinos en las redes sociales:
+* Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
+* Facebook: [NeoSiteLinux](https://facebook.com/neositelinux)
+* Telegram (canal): [@NeoSiteLinux](https://t.me/neositelinux)
+* Youtube: [NeoSiteLinux](https://www.youtube.com/user/neositelinux)
 
 Acá el audio. Agradecemos que lo compartas con todos!
 
-<a href="http://ar.ivoox.com/es/neositelinux-podcast-2017-0-eligiendo-a-audios-mp3_rf_19666910_1.html" title="NeoSiteLinux Podcast 2017 - #0 - Eligiendo a Manjaro Plasma como distro definitiva.">NeoSiteLinux Podcast 2017 #0 - Eligiendo Manjaro Plasma como distro definitiva</a>
+<a href="https://ar.ivoox.com/es/neositelinux-podcast-2017-0-eligiendo-a-audios-mp3_rf_19666910_1.html" title="NeoSiteLinux Podcast 2017 - #0 - Eligiendo a Manjaro Plasma como distro definitiva.">NeoSiteLinux Podcast 2017 #0 - Eligiendo Manjaro Plasma como distro definitiva</a>
 
-<audio id="audio" preload="auto" controls="" src="http://podcastcdn-18.ivoox.com/audio/0/1/9/6/1499379886_neositelinuxpodcast20170eligiendoa-killallradiopodcast-ivoox19666910.mp3?secure=QS7dsZdNx-1X1NmiLBfo7A==,1502481908"></audio>
+<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://ar.ivoox.com/es/player_ek_19666910_2_1.html?data=kp6jmJuddZGhhpywj5aXaZS1kZ6ah5yncZOhhpywj5aRaZi3jpiah5ynca_Z0LjW1sqwrc_p2ZC90cnHpdTojJedk5yPcYyZk5idjZKPic3dyM7S0MnTb8KfrsbbzMbWs4zEzZKSmaiRksbjs8bbycrWcYarpJKh&"></iframe>
