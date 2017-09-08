@@ -9,5 +9,5 @@ categories: [Podcast]
 
 Hola a todos! Hoy les traigo el tercer episodio de la tercera temporada de NeoSiteLinux Podcast! En éste episodio contamos un poco lo que hubo detrás de la emisión, algunos problemas y como se fue llevan a cabo todo. También un apartado agradeciendo a los oyentes. Digamos que es un episodio para sacarnos la resaca del maratón. Espero que les guste.
 
-[AUDIO EN IVOOX](http://ar.ivoox.com/es/20294550)
+[AUDIO EN IVOOX](http://ar.ivoox.com/es/20759935)
 
