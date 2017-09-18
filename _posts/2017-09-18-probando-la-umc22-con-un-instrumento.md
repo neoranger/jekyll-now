@@ -18,19 +18,19 @@ Lo que me quedaría probar es utilizando pedales con el bajo y esos pedales cone
 
 Les dejo algunos audios que grabé, si bien con errores mientras tocaba, lo bueno es que puedan escuchar como quedaron grabados con Audacity.
 
-**Audio sin efectos ni post-producción:**
+**Audio sin efectos ni post-producción: Prueba tocando la intro de "Rocking like a Hurricane"**
 <audio controls>
   <source src="https://github.com/neoranger/neoranger.github.io/blob/master/audios/2017/prueba_de_bajo.ogg?raw=true" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 
-**Audio con efectos pero sin post-producción:**
+**Audio con efectos pero sin post-producción: "Dookie" de Green Day**
 <audio controls>
   <source src="https://github.com/neoranger/neoranger.github.io/blob/master/audios/2017/dookie.ogg?raw=true" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 
-**Audio con efectos y con post-producción:**
+**Audio con efectos y con post-producción: "Learn to Fly" de Foo Fighters**
 <audio controls>
   <source src="https://github.com/neoranger/neoranger.github.io/blob/master/audios/2017/learn_to_fly.ogg?raw=true" type="audio/ogg">
 Your browser does not support the audio element.
