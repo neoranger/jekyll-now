@@ -16,5 +16,3 @@ Gracias por pasar!
 
 [neoranger@openmailbox.org](mailto:neoranger@openmailbox.org)
 
-### Blog en Wordpress (próximamente el blog de github será el oficial)
-[NeoSiteLinux](http://www.neositelinux.com)
