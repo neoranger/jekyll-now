@@ -24,7 +24,7 @@ Les dejo algunos audios que grabé, si bien con errores mientras tocaba, lo buen
 Your browser does not support the audio element.
 </audio>
 
-**Audio con efectos pero post-producción:**
+**Audio con efectos pero sin post-producción:**
 <audio controls>
   <source src="https://github.com/neoranger/neoranger.github.io/blob/master/audios/2017/dookie.ogg?raw=true" type="audio/ogg">
 Your browser does not support the audio element.
