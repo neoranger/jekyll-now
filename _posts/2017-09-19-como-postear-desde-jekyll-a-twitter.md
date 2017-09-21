@@ -25,8 +25,6 @@ Vamos paso a paso.
 
 ![_Logo]({{ site.baseurl }}/images/feed_to_twitter0.jpg)
 
-<IMG src="https://github.com/neoranger/neoranger.github.io/blob/master/images/feed_to_twitter0.jpg" width="100" height="100"/>
-
 2) Buscamos el servicio que queremos usar, en éste caso **feed RSS** 
 
 ![_Logo]({{ site.baseurl }}/images/feed_to_twitter1.jpg)
