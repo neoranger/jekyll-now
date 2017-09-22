@@ -8,7 +8,7 @@ permalink: /podcasts_feed/
 
 * Nombre: La cueva de Tux
 * Web: [http://ar.ivoox.com/es/podcast-cuevatux_sq_f1448015_1.html](http://ar.ivoox.com/es/podcast-cuevatux_sq_f1448015_1.html)
-* Feed: [http://www.ivoox.com/cuevatux_fg_f1448015_filtro_1.xml](http://www.ivoox.com/cuevatux_fg_f1448015_filtro_1.xml)
+* Feed: [http://feeds.feedburner.com/Cuevatux](http://feeds.feedburner.com/Cuevatux)
 
 ---
 
@@ -69,9 +69,6 @@ Nombre: EL DJ Informático
 * Blog: [http://sniferl4bs.com](http://sniferl4bs.com)
 * Podcast - Dame una Shell
 * Ivoox: [https://goo.gl/AqP8mS](https://goo.gl/AqP8mS)
-* Canal de Youtube: [http://bit.ly/2i2dKHA](http://bit.ly/2i2dKHA)
-* Github: [https://github.com/snifer](https://github.com/snifer)
-* Twitter: [@sniferl4bs](https://www.twitter.com/sniferl4bs)
 
 ---
 
