@@ -8,7 +8,7 @@ permalink: /podcasts_feed/
 
 * Nombre: La cueva de Tux
 * Web: [http://ar.ivoox.com/es/podcast-cuevatux_sq_f1448015_1.html](http://ar.ivoox.com/es/podcast-cuevatux_sq_f1448015_1.html)
-* Feed: []()
+* Feed: [http://www.ivoox.com/cuevatux_fg_f1448015_filtro_1.xml](http://www.ivoox.com/cuevatux_fg_f1448015_filtro_1.xml)
 
 ---
 
@@ -92,6 +92,6 @@ Nombre: EL DJ Informático
 * Nombre: NeoSiteLinux Podcast (_no podíamos faltar nosotros, jejejeje_)
 * Descripción: Software Libre y mas! 
 * Web: [neositelinux.com](neositelinux.com)
-* Feed: [http://ar.ivoox.com/es/neositelinux-podcast_fg_f1169111_filtro_1.xml](http://ar.ivoox.com/es/neositelinux-podcast_fg_f1169111_filtro_1.xml)
+* Feed: [http://feeds.feedburner.com/NeositelinuxPodcast](http://feeds.feedburner.com/NeositelinuxPodcast)
 
 ---
