@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Otra nueva temporada de series para los Geeks"
+title: "Empieza otra nueva temporada de series para los Geeks"
 date: 2017-09-27
 author: neositelinux
 comments: true
