@@ -2,18 +2,6 @@
 layout: search
 ---
 
-<!---
-layout: search
-title: "Busqueda"
-permalink: /search/
----!>
-
-<form action="{{ site.baseurl }}/search" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form>
-
 <ul id="search-results"></ul>
 
 <script>
@@ -23,7 +11,7 @@ permalink: /search/
         "title": "{{ post.title | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
-        "content": "{{ post.content | strip_html | strip_newlines | jsonify | remove: " " | escape | remove: "\" }}",
+        "content": "{{ post.content | strip_html | strip_newlines | jsonify }}",
         "url": "{{ post.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
