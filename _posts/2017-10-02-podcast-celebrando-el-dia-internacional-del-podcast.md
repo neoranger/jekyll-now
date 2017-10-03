@@ -9,7 +9,7 @@ categories: [Podcast]
 
 Hola a todos!! Hoy les traigo un episodio especial de NeoSiteLinux Podcast en el que junto al KillAllRadio Team nos juntamos para celebrar el Día Internacional del Podcast.
 
-En éste episodio no estoy solo sino que me acompañan grandes referentes del Podcasting de habla hispana tales como Ricardo Espinosa de "A golpes de Click", Yoyo Fernandez de "SalmorejoGeek Podcast" y Paco Estrada de "Compilando Podcast".
+En éste episodio no estoy solo sino que me acompañan grandes referentes del Podcasting de habla hispana tales como Ricardo Espinosa de ["A golpes de Click"](http://www.podcasts.com/a-golpes-de-click-0c582b5bc), Yoyo Fernandez de ["SalmorejoGeek Podcast"](https://www.salmorejogeek.com) y Paco Estrada de ["Compilando Podcast"](https://www.compilando.audio).
 
 Espero que les guste ésta charla.
 
