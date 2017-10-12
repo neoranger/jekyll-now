@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A la hora de elegir una distro a instalar, ¿Version Minimal o Out of the Box?”
+title: "A la hora de elegir una distro a instalar, ¿Version Minimal o Out of the Box?"
 date: 2016-11-15
 author: neoranger
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Último trailer de Avengers: Age of Ultron
+title: "Último trailer de Avengers: Age of Ultron"
 date: 2015-03-04
 author: neoranger
 comments: true
