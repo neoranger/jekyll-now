@@ -11,7 +11,9 @@ El año pasado escribí un artículo en el que les mostraba qué [grupos y canal
 
 En ésta lista, obviamente solo van a estar aquellos grupos públicos con enlaces públicos. Me reservo los grupos privados ya que para eso son. Comencemos:
 
-<center>![_Logo]({{ site.baseurl }}/images/telegram.png)</center>
+<p align="center">
+![_Logo]({{ site.baseurl }}/images/telegram.png)
+</p>
 
 ### Grupos públicos:
 [@ManjaroLinuxEs](https://t.me/manjarolinuxes): Grupo de usuarios de Manjaro en español. Un grupo que creció cada vez más. La atmosfera y el sentido de comunidad creado en el grupo es genial.
