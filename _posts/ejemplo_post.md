@@ -6,3 +6,8 @@ author: neositelinux
 comments: true
 categories: []
 ---
+
+Imagen para centrar:
+<p align="center">
+<img src="/images/telegram.png" alt="_Logo">
+</p>
