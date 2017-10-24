@@ -17,5 +17,6 @@ La idea de el **cómo** usar ésta herramienta queda por el lado del usuario. La
 
 Citando la frase super conocida: "nadie resiste a un archivo", la gente de Hipertextual no es la excepción y queda claramente demostrado que es gente que escribe por y para generar ganancias **(u obtenerla de empresas como Whatsapp)** a costar de escribir ésta clase de artículo, pero a su vez usan la herramienta a la cual critican, en éste caso Telegram, haciendo más evidente su doble cara.
 
-
-![_Logo]({{ site.baseurl }}/images/canal_hipertextual_telegram.jpg)
+<p align="center">
+<img src="/images/canal_hipertextual_telegram.jpg" alt="_Logo">
+</p>
