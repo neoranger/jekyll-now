@@ -12,7 +12,7 @@ El año pasado escribí un artículo en el que les mostraba qué [grupos y canal
 En ésta lista, obviamente solo van a estar aquellos grupos públicos con enlaces públicos. Me reservo los grupos privados ya que para eso son. Comencemos:
 
 <p align="center">
-![_Logo]({{ site.baseurl }}/images/telegram.png)
+<img src="/images/canal_hipertextual_telegram.jpg" alt="_Logo">
 </p>
 
 ### Grupos públicos:
