@@ -7,6 +7,7 @@ comments: true
 categories: [Aporte]
 ---
 
+![_Logo]({{ site.baseurl }}/images/telegram.png)
 El año pasado escribí un artículo en el que les mostraba qué [grupos y canales de Telegram estaba usando en ese momento](https://neositelinux.com/aporte-grupos-y-canales-de-telegram-que-uso/). Es bueno que podamos actualizar esa lista ya que ha pasado mucha agua debajo del puente.
 
 En ésta lista, obviamente solo van a estar aquellos grupos públicos con enlaces públicos. Me reservo los grupos privados ya que para eso son. Comencemos:
