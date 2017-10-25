@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Como restaurar el GRUB despues de un dualboot con Windows
+title: "Como restaurar el GRUB despues de un dualboot con Windows"
 date: 2016-01-06
 author: neoranger
 comments: true
 categories: [Aporte]
 ---
-&nbsp;
 
 <img class="  wp-image-2530 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/grub_archbang.png" alt="grub_archbang" width="369" height="278" />
 

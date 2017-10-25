@@ -1,20 +1,17 @@
 ---
 layout: post
-title: Cómo obtener los mejores repositorios en ArchLinux
+title: "Cómo obtener los mejores repositorios en ArchLinux"
 date: 2016-03-30
 author: neoranger
 comments: true
 categories: [Aporte]
 ---
-&nbsp;
 
 <img class="  wp-image-2187 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/archlinuxlogo.png" alt="archlinuxlogo" width="379" height="112" />
 
 Hace unas semanas que estoy probando ArchLinux instalado a mano, sin nada de por medio. Después de varios años de ser un usuario Linuxero, tuve el suficiente conocimiento y gracias a la Wiki de Arch pude instalarlo en el primer intento, algo que me enorgullece mucho.
 
 A raíz de esto, me empecé a interiorizar mas y estaba buscando un método para poder obtener los mejores repositorios, los más rápidos y más actualizados para ArchLinux. Manjaro tiene su propio script pero al usar sus propios repos no se puede usar en ArchLinux, aunque según el amigo Tete, se puede portar pero no es nada facil.
-
-<!--more-->
 
 Entonces encontré una manera super facil de hacerlo, usando Reflector, un script que a partir de ciertos parámetros podemos elegir cuantos repositorios queremos rápidos y cuantos actualizados.
 

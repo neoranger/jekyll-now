@@ -20,16 +20,12 @@ Por último probé sacando la pila para resetear la BIOS a ver si era eso.
 
 NADA, absolutamente NADA. No hace NADA de NADA!!! Descartando todo eso, es muy probable que sea un tema del microprocesador.
 
-&nbsp;
-
-https://www.youtube.com/watch?v=EQmg46u7itA
-
-&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EQmg46u7itA" frameborder="0" allowfullscreen></iframe>
 
 Es increíble que una laptop comprada hace un año y medio ya haya fallado de esa manera. Yo cuido mucho mis equipos pero bueno, a veces la calidad no es tan buena como parece (Te odio Positivo BGH!!!).
 
 Asi que amigos, voy a estar un poco inactivo en el blog hasta que pueda ver que le pasa a la laptop, mi idea es llevarla a un service y que la revisen para descartar cualquier error de la motherboard o microprocesador.
 
-Mientras voy a seguir poniendo cositas en el canal de <a href="https://telegram.me/neositelinux">Telegram del blog</a> Que como saben lo estoy usando bastante para pasar información, aplicaciones, opiniones y demás. Asi que puedan darse una vuelta por ese miniblog, jejeje.
+Mientras voy a seguir poniendo cositas en el canal de [Telegram del blog](https://telegram.me/neositelinux) Que como saben lo estoy usando bastante para pasar información, aplicaciones, opiniones y demás. Asi que puedan darse una vuelta por ese miniblog, jejeje.
 
 Los mantengo al tanto.

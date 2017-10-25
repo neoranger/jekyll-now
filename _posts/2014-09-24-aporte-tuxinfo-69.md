@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tuxinfo #69
+title: "Tuxinfo #69"
 date: 2014-09-24
 author: neoranger
 comments: true
@@ -13,19 +13,19 @@ categories: [Aporte]
 
 En el nro de este mes les traemos las siguientes notas:
 
-– Noticias Tuxinfo 69
-– Páginas Linuxeras
-– Utilizando Linux desde Windows y no “morir en el intento”
-– App -­ Android ­ Open Camera
-– Datcenter- OpenDaylight: iluminando redes
-– Especial IFA Berlín 2014
-– ¿Qué es Arduino?
-– Sistema de Gestión Hospitalaria en Software Libre
-– La Fundación Karisma
-– Opinión ­Weareable war
-– ¿Qué es UbuConLA?
-– Entrevista – Internet Corporation for Assigned Names and Numbers
-– Rootear – Motorola Atrix HD
+* Noticias Tuxinfo 69
+* Páginas Linuxeras
+* Utilizando Linux desde Windows y no “morir en el intento”
+* App -­ Android ­ Open Camera
+* Datcenter- OpenDaylight: iluminando redes
+* Especial IFA Berlín 2014
+* ¿Qué es Arduino?
+* Sistema de Gestión Hospitalaria en Software Libre
+* La Fundación Karisma
+* Opinión ­Weareable war
+* ¿Qué es UbuConLA?
+* Entrevista – Internet Corporation for Assigned Names and Numbers
+* Rootear – Motorola Atrix HD
 
 <a href="http://issuu.com/arielm.corgatelli/docs/tuxinfo69?e=1" target="_blank">Revista OnLine</a>
 
@@ -37,6 +37,3 @@ En el nro de este mes les traemos las siguientes notas:
 <a href="http://www.tuxinfo.com.ar/?feed=rss2" target="_blank">RSS de TuxInfo</a>
 <a href="http://www.twitter.com/tuxinfo" target="_blank">Seguinos en Twitter @tuxinfo</a></div>
 
-<div>FUENTE</div>
-
-&nbsp;
