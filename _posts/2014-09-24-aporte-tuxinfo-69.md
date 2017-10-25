@@ -13,18 +13,18 @@ categories: [Aporte]
 
 En el nro de este mes les traemos las siguientes notas:
 
-* Noticias Tuxinfo 69
-* Páginas Linuxeras
+* Noticias Tuxinfo 69
+* Páginas Linuxeras
 * Utilizando Linux desde Windows y no “morir en el intento”
 * App -­ Android ­ Open Camera
-* Datcenter- OpenDaylight: iluminando redes
+* Datcenter- OpenDaylight: iluminando redes
 * Especial IFA Berlín 2014
 * ¿Qué es Arduino?
 * Sistema de Gestión Hospitalaria en Software Libre
 * La Fundación Karisma
 * Opinión ­Weareable war
 * ¿Qué es UbuConLA?
-* Entrevista – Internet Corporation for Assigned Names and Numbers
+* Entrevista – Internet Corporation for Assigned Names and Numbers
 * Rootear – Motorola Atrix HD
 
 <a href="http://issuu.com/arielm.corgatelli/docs/tuxinfo69?e=1" target="_blank">Revista OnLine</a>
