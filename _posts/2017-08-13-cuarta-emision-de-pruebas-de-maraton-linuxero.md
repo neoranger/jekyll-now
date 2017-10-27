@@ -17,3 +17,10 @@ El formato del día de hoy fue casi como se va a realizar el maratón. 3 horas s
 Les dejo la emisión que se hizo en el canal de Youtube del Maratón:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xGhf-OQftyY" frameborder="0" allowfullscreen></iframe>
+
+Seguinos en las redes sociales:
+* Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
+* Facebook: [NeoSiteLinux](https://facebook.com/neositelinux)
+* Telegram (canal): [@NeoSiteLinux](https://t.me/neositelinux)
+* Telegram (canal de audios): [@NeoSiteLinuxPodcast](https://t.me/neositelinuxpodcast)
+* Youtube: [NeoSiteLinux](https://www.youtube.com/user/neositelinux)

@@ -17,4 +17,5 @@ Seguinos en las redes sociales:
 * Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
 * Facebook: [NeoSiteLinux](https://facebook.com/neositelinux)
 * Telegram (canal): [@NeoSiteLinux](https://t.me/neositelinux)
+* Telegram (canal de audios): [@NeoSiteLinuxPodcast](https://t.me/neositelinuxpodcast)
 * Youtube: [NeoSiteLinux](https://www.youtube.com/user/neositelinux)

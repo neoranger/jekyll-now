@@ -21,8 +21,9 @@ Sin más dilatación les dejo la grabación de éste nuevo directo de pruebas pa
 
 Seguime en las redes sociales:
 
-<ul>
-    <li>Telegram: <a href="https://t.me/neositelinux">@NeoSiteLinux</a></li>
-    <li>Twitter: <a href="https://www.twitter.com/neositelinux">@NeoSiteLinux</a></li>
-    <li>Facebook: <a href="https://www.facebook.com/neositelinux">NeoSiteLinux</a></li>
-</ul>
+Seguinos en las redes sociales:
+* Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
+* Facebook: [NeoSiteLinux](https://facebook.com/neositelinux)
+* Telegram (canal): [@NeoSiteLinux](https://t.me/neositelinux)
+* Telegram (canal de audios): [@NeoSiteLinuxPodcast](https://t.me/neositelinuxpodcast)
+* Youtube: [NeoSiteLinux](https://www.youtube.com/user/neositelinux)

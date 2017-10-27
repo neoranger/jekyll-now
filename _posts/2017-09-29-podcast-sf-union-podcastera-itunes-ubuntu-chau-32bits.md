@@ -17,3 +17,10 @@ Los temas tratados en éste podcast:
 
 Escuchalo acá:
 <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://ar.ivoox.com/es/player_ek_21177077_2_1.html?data=k5aemZyUe5ihhpywj5aXaZS1k5uah5yncZOhhpywj5WRaZi3jpWah5ynca_Z0LjW1sqwrc_p2ZC90cnHpdTojJedk5yPcYyZk5ihjZKPl9Dp08jSqNTWq8aZk6iYt9PNs8-fsdTRj4qbh47CxtS_w9PLqdOhhpywj5k.&"></iframe>
+
+Seguinos en las redes sociales:
+* Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
+* Facebook: [NeoSiteLinux](https://facebook.com/neositelinux)
+* Telegram (canal): [@NeoSiteLinux](https://t.me/neositelinux)
+* Telegram (canal de audios): [@NeoSiteLinuxPodcast](https://t.me/neositelinuxpodcast)
+* Youtube: [NeoSiteLinux](https://www.youtube.com/user/neositelinux)
