@@ -13,5 +13,5 @@ Es verdad que están los podcatchers o incluso las aplicaciones propias de las p
 Te animo a sumarte a nuestro canal [NeoSiteLinux Podcast](https://t.me/neositelinuxpodcast). Te esperamos!!
 
 <p align="center">
-<img src="/images/nsl_audios.png" alt="_Logo">
+<img src="/images/nsl_audios.jpg" alt="_Logo">
 </p>
