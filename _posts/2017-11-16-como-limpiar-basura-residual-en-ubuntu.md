@@ -11,6 +11,6 @@ Hace unos días, hablando con un usuario por Telegram de videojuegos en GNU/Linu
 
 Este usuario me compartió uno muy interesante que lo que hace es limpiar toda la basura residual que queda cuando uno elimina un paquete/programa/aplicación. Muchas veces quedan librerías obsoletas o directorios sin usar o dependencias específicas que no se van a usar más. Con éste comando podemos limpiar todo eso:
 
-` sudo dpkg --purge `dpkg -l|egrep ^rc|cut -d' ' -f 3`  `
+> sudo dpkg --purge `dpkg -l|egrep ^rc|cut -d' ' -f 3`
 
 Lo he probado en Ubuntu y funciona perfecto. Me ha borrado bastante basura residual. Te animo a probarlo y que nos comentes la experiencia. Si funciona en Ubuntu probablemente funcionará igual de bien en sus derivadas.
