@@ -43,6 +43,10 @@ Por eso, si no quieren matarse con comandos desde la terminal o no saben usar ff
 
 Para instalarlo basta con un:
 
-Ubuntu y derivadas: `sudo apt install winff`
+Ubuntu y derivadas (versión GTK): `sudo apt install winff`
 
-Arch y derivadas: `sudo pacman -S winff` y si quieren versión QT en Arch: `yaourt -S qwinff`
+Ubuntu y derivadas (versión QT): `sudo apt install winff-qt`
+
+Arch y derivadas (versión GTK): `sudo pacman -S winff` 
+
+Arch y derivadas (versión QT): `yaourt -S qwinff`
