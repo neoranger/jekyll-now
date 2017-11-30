@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La aplicacion IFTTT cada dia me sorprende mas"
-date:2017-11-30
+date: 2017-11-30
 author: neositelinux
 comments: true
 categories: [Aporte]
