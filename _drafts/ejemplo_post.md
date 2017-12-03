@@ -9,5 +9,5 @@ categories: []
 
 Imagen para centrar:
 <p align="center">
-<img src="/images/telegram.png" alt="_Logo">
+<img src="/images/telegram.png" width="300" height="500" alt="_Logo">
 </p>
