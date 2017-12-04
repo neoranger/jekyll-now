@@ -8,7 +8,7 @@ categories: [Podcast, Informacion, Aporte]
 ---
 
 <p align="center">
-<img src="/images/kar_portada.jpg" alt="_Logo">
+<img src="/images/kar_portada.jpg" width="300" height="500" alt="_Logo">
 </p>
 
 Hace unos días, con el Killall Radio Team que está conformado por:
