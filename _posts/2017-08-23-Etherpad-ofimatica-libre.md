@@ -7,9 +7,11 @@ comments: true
 categories: [Informacion, Aporte]
 ---
 
-![_Logo ]({{ site.baseurl }}/images/etherpad_nsl.jpg)
-
 Hace un rato estuvimos barajando, con los colaboradores del [Maratón Linuxero](https://maratonlinuxero.github.io), de buscar otra opción a usar Google Docs ya que el formato que utiliza es privativo y como queremos demostrar que con GNU/Linux si se puede, decidimos montar un Etherpad en el VPS donde tenemos armado el servidor Jitsi para el día de el Maratón demostrando que podemos organizar todo con software libre.
+
+<p align="center">
+<img src="/images/etherpad_nsl.jpg" width="300" height="500" alt="_Logo">
+</p>
 
 Con [Etherpad](https://github.com/ether/etherpad-lite) podemos generar documentos colaborativos sin requerimiento de logueo previo (aunque se puede configurar para tener una mayor seguridad) y de una manera super fácil. Lo que vamos a hacer hoy es instalar de manera local a Etherpad para poder usarlo como servidor de trabajo.
 
@@ -51,5 +53,8 @@ Lo bueno que tiene es que Etherpad [se nutre de plugins](https://static.etherpad
 * Dibujos colaborativos (al estilo pizarrón)
 * Y un largo etcétera...
 
-![_Logo ]({{ site.baseurl }}/images/etherpad_nsl2.jpg)
+<p align="center">
+<img src="/images/etherpad_nsl2.jpg" width="300" height="500" alt="_Logo">
+</p>
+
 
