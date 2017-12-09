@@ -64,3 +64,5 @@ Así queda el post creado y listo para ser escrito:
 </p>
 
 Espero que los que usen Jekyll para sus blogs puedan aprovechar ésta herramienta al máximo tal y como yo lo voy a hacer.
+
+**NOTA: EL SCRIPT SE VA A IR ACTUALIZANDO A LO LARGO DEL TIEMPO POR LO QUE LES SUGIERO CLONARSE EL REPOSITORIO DE GITHUB Y TENERLO AL DÍA PARA PODER DISFRUTAR DE LAS ÚLTIMAS ACTUALIZACIONES DE LA HERRAMIENTA.**
