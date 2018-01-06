@@ -19,6 +19,7 @@ Les dejo una imagen de lo que comento sobre la flag que se puede setear en Googl
 
 Sobre las RaspberrysPi y Meltdown pueden leer [éste artículo](https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/) donde se explica por qué no son vulnerables.
 
+Gracias a Gustavo, un oyente del podcast, que nos pasó la información.
 
 Seguinos en las redes sociales:
 * Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
