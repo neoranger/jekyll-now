@@ -17,3 +17,9 @@ Gracias a todos por habernos acompañado en éste viaje, nos escuchamos en el 20
 <img src="/images/thanks.jpg" width="300" height="300" alt="_Logo">
 </p>
 
+Seguinos en las redes sociales:
+* Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
+* Facebook: [NeoSiteLinux](https://facebook.com/neositelinux)
+* Telegram (canal): [@NeoSiteLinux](https://t.me/neositelinux)
+* Telegram (canal de audios): [@NeoSiteLinuxPodcast](https://t.me/neositelinuxpodcast)
+* Youtube: [NeoSiteLinux](https://www.youtube.com/user/neositelinux)
