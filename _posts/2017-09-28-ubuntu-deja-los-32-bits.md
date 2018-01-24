@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntu deja los 32 Bits y yo que me alegro"
 date: 2017-09-28
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Opinion]
 ---

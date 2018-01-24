@@ -2,7 +2,7 @@
 layout: post
 title: "Configurar Github Pages con dominio propio (Github+Jekyll+Namecheap+Cloudflare)"
 date: 2017-08-24
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Informacion, Aporte]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Aumentando la calidad para los Podcasts"
 date: 2017-08-14
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast, Offtopic]
 ---

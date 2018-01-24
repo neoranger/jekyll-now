@@ -2,7 +2,7 @@
 layout: post
 title: "Borradores y redireccion de dominio"
 date: 2017-08-14
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Aporte, Offtopic]
 ---

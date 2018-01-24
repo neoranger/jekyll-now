@@ -2,7 +2,7 @@
 layout: post
 title: "Como mandar a twitter un nuevo post de Github+Jekyll"
 date: 2017-09-19
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Tecnologia, Informacion]
 ---

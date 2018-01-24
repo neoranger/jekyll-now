@@ -2,7 +2,7 @@
 layout: post
 title: "Adiós a Mastodon Argentina"
 date: 2017-08-22
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Informacion, Opinion]
 ---

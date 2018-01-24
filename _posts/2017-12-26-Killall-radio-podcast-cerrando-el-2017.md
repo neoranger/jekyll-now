@@ -2,7 +2,7 @@
 layout: post
 title: "Killall Radio Podcast: último directo del año"
 date: 2017-12-26
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast, Aporte]
 ---

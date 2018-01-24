@@ -2,7 +2,7 @@
 layout: post
 title: "NeoSiteLinux Podcast 2018 - #1 - El Intel-Gate"
 date: 2018-01-05
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast, Aporte]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Como limpiar la basura residual en Ubuntu y derivadas"
 date: 2017-11-16
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Aporte]
 ---

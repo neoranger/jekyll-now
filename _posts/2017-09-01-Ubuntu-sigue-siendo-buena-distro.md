@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntu sigue siendo una buena distro"
 date: 2017-09-01
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Opinion]
 ---

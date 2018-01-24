@@ -2,7 +2,7 @@
 layout: post
 title: "Nuestro Podcast es parte de Unión Podcastera!"
 date: 2017-09-13
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast, Informacion]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Hipertextual te enseña a piratear"
 date: 2017-10-13
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Opinion, Informacion]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "¿Ahora que Openmailbox no anda como servicio IMAP, qué hacemos?"
 date: 2017-08-07
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Informacion]
 ---

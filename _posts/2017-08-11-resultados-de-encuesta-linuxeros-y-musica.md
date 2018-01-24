@@ -2,7 +2,7 @@
 layout: post
 title: "Resultados de la Encuesta: ¿Qué estilo de música es el preferido de los Linuxeros?"
 date: 2017-08-11
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Encuestas]
 ---

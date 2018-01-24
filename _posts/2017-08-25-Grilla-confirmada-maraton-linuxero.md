@@ -2,7 +2,7 @@
 layout: post
 title: "Grilla confirmada para el Maratón Linuxero del 3 de Septiembre"
 date: 2017-08-25
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Informacion]
 ---

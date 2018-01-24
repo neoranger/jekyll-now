@@ -2,7 +2,7 @@
 layout: post
 title: "Maraton Linuxero 1.2 (3 de Diciembre) - Stream completo"
 date: 2017-12-03
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Aporte, Podcast]
 ---

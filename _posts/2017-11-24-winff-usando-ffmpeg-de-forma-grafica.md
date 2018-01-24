@@ -2,7 +2,7 @@
 layout: post
 title: "Winff: usando ffmpeg de forma gráfica"
 date: 2017-11-24
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Aporte]
 ---

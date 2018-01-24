@@ -2,7 +2,7 @@
 layout: post
 title: "Sorteo de un Motorola G5 libre de fábrica - Infosertec"
 date: 2017-11-09
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Informacion, Aporte]
 ---

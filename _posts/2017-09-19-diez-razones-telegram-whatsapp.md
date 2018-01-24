@@ -2,7 +2,7 @@
 layout: post
 title: "10 razones por las que Telegram es mejor que Whatsapp"
 date: 2017-09-19
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Tecnologia, Informacion]
 ---

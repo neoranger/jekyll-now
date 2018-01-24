@@ -2,7 +2,7 @@
 layout: post
 title: "La neutralidad en la red, qué es y por qué debería importarnos"
 date: 2017-12-02
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Aporte]
 ---

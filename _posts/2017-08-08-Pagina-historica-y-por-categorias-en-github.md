@@ -2,7 +2,7 @@
 layout: post
 title: "Página de Entradas históricas y páginas por Categorías en Github"
 date: 2017-08-08
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Aporte]
 ---

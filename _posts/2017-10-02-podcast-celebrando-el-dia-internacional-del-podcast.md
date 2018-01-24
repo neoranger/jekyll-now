@@ -2,7 +2,7 @@
 layout: post
 title: "NeoSiteLinux Podcast #5 - Celebrando el #InternationalPodcastDay junto a grandes podcasters" 
 date: 2017-10-02
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast]
 ---

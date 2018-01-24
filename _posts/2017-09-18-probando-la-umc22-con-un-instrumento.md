@@ -2,7 +2,7 @@
 layout: post
 title: "Probando la interfaz UMC22 con un instrumento"
 date: 2017-09-18
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast, Tecnologia]
 ---

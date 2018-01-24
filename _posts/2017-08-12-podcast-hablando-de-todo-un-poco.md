@@ -2,7 +2,7 @@
 layout: post
 title: "NeoSiteLinux Podcast #1 - Hablando un poco de todo"
 date: 2017-08-12
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast]
 ---

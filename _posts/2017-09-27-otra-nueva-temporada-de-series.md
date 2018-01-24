@@ -2,7 +2,7 @@
 layout: post
 title: "Empieza otra nueva temporada de series para los Geeks"
 date: 2017-09-27
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Series]
 ---

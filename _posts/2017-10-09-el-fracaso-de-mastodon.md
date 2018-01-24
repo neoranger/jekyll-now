@@ -2,7 +2,7 @@
 layout: post
 title: "¿El fracaso de Mastodon y las redes sociales libres?"
 date: 2017-10-09
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Opinion]
 ---

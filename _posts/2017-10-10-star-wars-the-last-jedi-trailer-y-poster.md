@@ -2,7 +2,7 @@
 layout: post
 title: "Star Wars: The Last Jedi - Trailer y Poster"
 date: 2017-10-10
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Peliculas, Informacion]
 ---

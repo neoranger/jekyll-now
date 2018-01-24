@@ -2,7 +2,7 @@
 layout: post
 title: "Creando nuestro propio pad libre con Etherpad para trabajo colaborativo"
 date: 2017-08-23
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Informacion, Aporte]
 ---

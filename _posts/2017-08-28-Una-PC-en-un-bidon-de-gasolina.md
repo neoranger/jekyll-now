@@ -2,7 +2,7 @@
 layout: post
 title: "Una PC en un bidón de gasolina"
 date: 2017-08-28
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Offtopic]
 ---

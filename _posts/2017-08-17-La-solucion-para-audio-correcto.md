@@ -2,7 +2,7 @@
 layout: post
 title: "Como hacer andar el Samson R21S si no te funciona la entrada de micrófono"
 date: 2017-08-17
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Aporte, Tecnologia]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Jugando en GNU/Linux - Emisión Maratón Linuxero"
 date: 2017-09-04
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast, Informacion]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Cuarta Emisión en directo de Maratón Linuxero"
 date: 2017-08-13
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "NeoSiteLinux Podcast #3 - Crossover con A golpes de click Podcast - Manjaro y su propio portatil"
 date: 2017-09-13
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast]
 ---

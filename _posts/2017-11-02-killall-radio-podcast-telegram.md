@@ -2,7 +2,7 @@
 layout: post
 title: "Killall Radio Podcast Telegram"
 date: 2017-11-02
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast, Informacion, Aporte]
 ---

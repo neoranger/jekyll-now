@@ -2,7 +2,7 @@
 layout: post
 title: "NeoSiteLinux Podcast #7 - Volviendo a las raíces"
 date: 2017-11-10
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast]
 ---

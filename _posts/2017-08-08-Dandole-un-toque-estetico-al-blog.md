@@ -2,7 +2,7 @@
 layout: post
 title: "Dándole un toque mas estético al blog"
 date: 2017-08-08
-author: neositelinux
+author: neoranger
 comments: true
 categories: [OffTopic]
 ---

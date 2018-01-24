@@ -2,7 +2,7 @@
 layout: post
 title: "Unboxing interfaz USB Behringer Uphoria UMC22"
 date: 2017-08-27
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Aporte, Tecnologia, Unboxing, Podcast]
 ---

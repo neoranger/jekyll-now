@@ -2,7 +2,7 @@
 layout: post
 title: "Canal de audios en Telegram de NeoSiteLinux Podcast"
 date: 2017-10-27
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Informacion, Aporte, Podcast]
 ---

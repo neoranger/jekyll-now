@@ -2,7 +2,7 @@
 layout: post
 title: "NeoSiteLinux Podcast #4 - SourceForge, Union Podcastera, Podcast en iTunes y Adios 32Bits en Ubuntu" 
 date: 2017-09-29
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Podcast]
 ---

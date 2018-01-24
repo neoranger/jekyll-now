@@ -2,7 +2,7 @@
 layout: post
 title: "Grupos y canales de Telegram que usé en el 2017"
 date: 2017-10-24
-author: neositelinux
+author: neoranger
 comments: true
 categories: [Aporte]
 ---
