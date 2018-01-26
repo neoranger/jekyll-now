@@ -5,6 +5,7 @@ date: XXXX-XX-XX
 author: neositelinux
 comments: true
 categories: []
+tags: []
 ---
 
 Imagen para centrar:
