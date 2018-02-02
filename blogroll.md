@@ -26,6 +26,7 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 * [SystemInside][18]
 * [Jvare][19]
 * [Maratón Linuxero][28]
+* [Deepin en Español][29]
 
 [1]: https://podcastlinux.github.io
 [2]: https://ugeek.github.io
@@ -43,6 +44,7 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 [18]: https://www.systeminside.com
 [19]: https://jvare.com
 [28]: https://maratonlinuxero.org
+[29]: https://deepinenespanol.org
 
 # Podcasts de Interés
 * [PodcastLinux][6]

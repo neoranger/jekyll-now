@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ejemplo para tomar las cabeceras"
-date: XXXX-XX-XX
-author: neositelinux
-comments: true
+title: "Titulo"
+date: XXXX-XX-XX 
+type: post
+published: true
+status: publish
 categories: []
 tags: []
+author: "neoranger"
+image: ""
 ---
 
 Imagen para centrar:

@@ -86,9 +86,16 @@ permalink: /podcasts_feed/
 
 ---
 
+* Nombre: Deepin en Español
+* Descripción: Deepin en Español
+* Web: [deepinenespanol.org](https://deepinenespanol.org)
+* Feed: [http://feeds.feedburner.com/NeositelinuxPodcast](http://feeds.feedburner.com/NeositelinuxPodcast)
+
+---
+
 * Nombre: NeoSiteLinux Podcast (_no podíamos faltar nosotros, jejejeje_)
 * Descripción: Software Libre y mas! 
-* Web: [neositelinux.com](neositelinux.com)
+* Web: [neositelinux.com](https://neositelinux.com)
 * Feed: [http://feeds.feedburner.com/NeositelinuxPodcast](http://feeds.feedburner.com/NeositelinuxPodcast)
 
 ---
