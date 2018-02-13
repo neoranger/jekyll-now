@@ -89,7 +89,7 @@ permalink: /podcasts_feed/
 * Nombre: Deepin en Español
 * Descripción: Deepin en Español
 * Web: [deepinenespanol.org](https://deepinenespanol.org)
-* Feed: [http://feeds.feedburner.com/NeositelinuxPodcast](http://feeds.feedburner.com/NeositelinuxPodcast)
+* Feed: [http://ar.ivoox.com/es/deepin-espanol_fg_f1499118_filtro_1.xml](http://ar.ivoox.com/es/deepin-espanol_fg_f1499118_filtro_1.xml)
 
 ---
 
