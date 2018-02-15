@@ -1,21 +1,20 @@
 ---
 layout: post
-title: Usando el Wormhole de Dataplicity
+title: "Usando el Wormhole de Dataplicity"
 date: 2017-3-15
 author: neoranger
 comments: true
 categories: [Aporte, RaspberryPi]
+tags: [raspberrypi]
 ---
-<img class="  wp-image-4182 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/03/dataplicity.png" alt="dataplicity" width="255" height="93" />
 
 Hace unos días les mostré el <a href="http://neositelinux.com/2017/03/08/raspberrypi-dataplicity-un-servicio-ideal-para-tu-pi/">servicio que brinda Dataplicity</a> el cual nos da la posibilidad de acceder a nuestra RaspberryPi de forma muy fácil y sin complicaciones.
-
 Ahora, les quiero mostrar una opción que tiene Dataplicity que lo acabo de probar y es genial.
+
+<img class="  wp-image-4182 aligncenter" src="https://blogneositelinux.files.wordpress.com/2017/03/dataplicity.png" alt="dataplicity" width="255" height="93" />
 
 Dataplicity nos da la opción de activar lo que se llama "Wormhole" (Agujero de Gusano en español) el cual nos da la opción de tener un dominio en el caso de que tengamos un servidor web creado en nuestra RaspberryPi.
 Como yo tengo uno creado (totalmente cerrado para que yo solo pueda usarlo) decidí probar éste servicio no sin antes hablar con la gente de soporte ya que al tener ya armado el web server con Nginx y no-ip, el cual me da un dominio gratis del estilo miweb.zapto.org (entre varios dominios), para saber si tendría alguna dificultad o tendría que tocar algo. A lo que me respondieron que no, no hace falta hacer nada, siempre y cuando tenga ya el web server montado.
-
-<!--more-->
 
 Activar ésta opción es super fácil (además de ser una opción gratis):
 
