@@ -15,60 +15,35 @@ Simplemente es una lista con los sitios de interés que actualmente leo o tengo 
 * [NeoSiteLinux][3]
 * [SalmorejoGeek][4]
 * [KernelPanicBlog][5]
-* [La Mirada del Replicante][10]
-* [MuyLinux][11]
-* [WebUp8][12]
-* [DesdeLinux][13]
-* [Linuxito][14]
-* [El Blog de Liher][15]
-* [Diario de una Linuxera][16]
-* [Ochos bits hacen un byte][17]
-* [SystemInside][18]
-* [Jvare][19]
-* [Maratón Linuxero][28]
-* [Deepin en Español][29]
+* [La Mirada del Replicante][6]
+* [MuyLinux][7]
+* [WebUp8][8]
+* [DesdeLinux][9]
+* [Linuxito][10]
+* [El Blog de Liher][11]
+* [Diario de una Linuxera][12]
+* [Ochos bits hacen un byte][13]
+* [SystemInside][14]
+* [Jvare][15]
+* [Maratón Linuxero][16]
+* [Deepin en Español][17]
+* [Colaboratorio][18]
 
-[1]: https://podcastlinux.github.io
+[1]: https://podcastlinux.com
 [2]: https://ugeek.github.io
 [3]: https://www.neositelinux.com
 [4]: https://www.salmorejogeek.com
 [5]: https://kernelpanicblog.wordpress.com
-[10]: https://lamiradadelreplicante.com
-[11]: https://www.muylinux.com/
-[12]: https://www.webupd8.org
-[13]: https://blog.desdelinux.net
-[14]: https://www.linuxito.com
-[15]: https://elblogdeliher.com
-[16]: https://www.diariodeunalinuxera.com
-[17]: https://www.ochobitshacenunbyte.com
-[18]: https://www.systeminside.com
-[19]: https://jvare.com
-[28]: https://maratonlinuxero.org
-[29]: https://deepinenespanol.org
-
-# Podcasts de Interés
-* [PodcastLinux][6]
-* [uGeek][7]
-* [KillAllRadio][8]
-* [SalmorejoGeek Podcast][9]
-* [NeoSiteLinux Podcast][20]
-* [Ubuntu y otras Hierbas][21]
-* [Las Crónicas del Linuxverso (feed)][22]
-* [Rebasanzo el Horizote(feed)][23]
-* [Digital Life 2.0(feed)][24]
-* [A Golpes de Click][25]
-* [A Golpes de Click (feed)][26]
-* [Compilando Podcast][27]
-
-[6]: https://podcastlinux.github.io
-[7]: https://ugeek.github.io
-[8]: http://www.killallradio.tk
-[9]: http://ar.ivoox.com/es/podcast-salmorejo-geek_sq_f1206500_1.html
-[20]: http://ar.ivoox.com/es/podcast-neositelinux-podcast_sq_f1169111_1.html
-[21]: https://www.youtube.com/playlist?list=PLrtOacI496LQE-2js3gwgv2upN72zJpO8
-[22]: http://ar.ivoox.com/es/cronicas-del-linuxverso_fg_f1444265_filtro_1.xml
-[23]: http://www.ivoox.com/rebasando-horizonte_fg_f1404041_filtro_1.xml
-[24]: https://www.ivoox.com/digital-life-2-0_fg_f1122589_filtro_1.xml
-[25]: https://bairot.github.io/agdc/
-[26]: http://mx.ivoox.com/es/escuchar-a-golpes-click_nq_330712_1.html
-[27]: https://compilando.audio/
+[6]: https://lamiradadelreplicante.com
+[7]: https://www.muylinux.com/
+[8]: https://www.webupd8.org
+[9]: https://blog.desdelinux.net
+[10]: https://www.linuxito.com
+[11]: https://elblogdeliher.com
+[12]: https://www.diariodeunalinuxera.com
+[13]: https://www.ochobitshacenunbyte.com
+[14]: https://www.systeminside.com
+[15]: https://jvare.com
+[16]: https://maratonlinuxero.org
+[17]: https://deepinenespanol.org
+[18]: https://colaboratorio.net
