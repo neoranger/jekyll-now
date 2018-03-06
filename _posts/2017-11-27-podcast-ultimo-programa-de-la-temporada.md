@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NeoSiteLinux Podcast #8 - Ultimo episodio de la temporada"
+title: "NeoSiteLinux Podcast 2017 #8 - Ultimo episodio de la temporada"
 date: 2017-11-27
 author: neoranger
 comments: true

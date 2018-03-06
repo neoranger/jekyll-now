@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NeoSiteLinux Podcast #7 - Volviendo a las raíces"
+title: "NeoSiteLinux Podcast 2017 #7 - Volviendo a las raíces"
 date: 2017-11-10
 author: neoranger
 comments: true

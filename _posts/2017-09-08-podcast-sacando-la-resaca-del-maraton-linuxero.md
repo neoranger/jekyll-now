@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NeoSiteLinux Podcast #2 - Resaca del Maratón Linuxero"
+title: "NeoSiteLinux Podcast 2017 #2 - Resaca del Maratón Linuxero"
 date: 2017-09-08
 author: neoranger
 comments: true

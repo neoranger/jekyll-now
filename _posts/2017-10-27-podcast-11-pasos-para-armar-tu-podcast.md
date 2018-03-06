@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NeoSiteLinux Podcast #6 - 11 Pasos para crear tu podcast"
+title: "NeoSiteLinux Podcast 2017 #6 - 11 Pasos para crear tu podcast"
 date: 2017-10-27
 author: neoranger
 comments: true
