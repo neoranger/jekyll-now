@@ -18,3 +18,4 @@ Seguinos en las redes sociales:
 * Telegram (canal): [@NeoSiteLinux](https://t.me/neositelinux)
 * Telegram (canal de audios): [@NeoSiteLinuxPodcast](https://t.me/neositelinuxpodcast)
 * Youtube: [NeoSiteLinux](https://www.youtube.com/user/neositelinux)
+* iTunes: [Plataforma en Español](https://itunes.apple.com/es/podcast/neositelinux-podcast/id1290287938?mt=2)
