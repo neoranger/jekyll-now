@@ -36,7 +36,7 @@ Lo bueno que tiene también es que se puede poner metas globales sobre todo para
 ¿Que te parece la propuesta? ¿Estás dispuesto a ayudarnos? ¡¡Sumate!!
 
 <p align="center">
-<img src="/images/NSL_en_Patreon.JPG" width="450" height="450" alt="_Logo">
+<img src="/images/NSL_en_Patreon.JPG" width="700" height="700" alt="_Logo">
 </p>
 
 Seguinos en las redes sociales:
