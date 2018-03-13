@@ -27,9 +27,9 @@ Este es el objetivo que quiero hacer tanto con el [Podcast](https://neositelinux
 
 Los niveles que tiene mi página de Patreón son muy sencillos:
 
-1) **Amigos de NeoSiteLinux (Bronce) (Aporte de 1 dólar):** Con éste aporte vas a ser mencionado en cada podcast como parte de la comunidad de NeoSiteLinux agradeciéndote por tu aporte.
-2) **Amigos de NeoSiteLinux (Plata) (Aporte de 5 dólares):** Con éste aporte no solo serás mencionado en cada episodio del podcast sino que también podrá elegir uno de los temas que se tocarán en próximos episodios del podcast.
-3) **Amigos de NeoSiteLinux (Oro) (Aporte de 10 dólares):** Con éste aporte no solo serás mencionado en cada podcast, sino que podrás no solo elegir el tema principal del próximo episodio del podcast sino que también podrás ser parte de un grupo de Telegram exclusivo para evacuar cualquier duda tecnológica que tengas y en el cual accederás a contenido exclusivo y tenerlo antes que nadie.
+* **Amigos de NeoSiteLinux (Bronce) (Aporte de 1 dólar):** Con éste aporte vas a ser mencionado en cada podcast como parte de la comunidad de NeoSiteLinux agradeciéndote por tu aporte.
+* **Amigos de NeoSiteLinux (Plata) (Aporte de 5 dólares):** Con éste aporte no solo serás mencionado en cada episodio del podcast sino que también podrá elegir uno de los temas que se tocarán en próximos episodios del podcast.
+* **Amigos de NeoSiteLinux (Oro) (Aporte de 10 dólares):** Con éste aporte no solo serás mencionado en cada podcast, sino que podrás no solo elegir el tema principal del próximo episodio del podcast sino que también podrás ser parte de un grupo de Telegram exclusivo para evacuar cualquier duda tecnológica que tengas y en el cual accederás a contenido exclusivo y tenerlo antes que nadie.
 
 Lo bueno que tiene también es que se puede poner metas globales sobre todo para incentivar a los usuarios que aportan, es por eso que la meta global de nuestro Patreón es que si llegamos a 100 Patreones vamos a hacer un gran sorteo de dispositivos tecnológicos, algo que estaría genial hacer (obviamente si es que llegamos, esperemos que si).
 
