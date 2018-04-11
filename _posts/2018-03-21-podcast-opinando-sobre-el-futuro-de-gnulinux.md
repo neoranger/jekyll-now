@@ -15,7 +15,7 @@ Hola a todos!! Hoy les traigo un nuevo podcast un poco especial. ¿Por qué? Por
 
 **_Aclaro que ésta opinión es totalmente irrelevante. No quiero levantar polémica sino que solo es mi opinión acerca de éste tema. Espero sus comentarios tanto en Ivoox como acá mismo en el blog._**
 
-<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://ar.ivoox.com/es/player_ek_24728511_2_1.html?data=k5mklJ2ZdZKhhpywj5idaZS1k5aah5yncZOhhpywj5WRaZi3jpWah5ynca_Z0LjW1sqwrc_p2ZC90cnHpdTojJedk52PcYyZk5ihjZKPk9Hdz8bbxtSPt9DW08qYx9GPqtbo1pKSmaiRksbjs8bbycrWcYarpJKh&"></iframe>
+<iframe id='audio_24728511' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://ar.ivoox.com/es/player_ej_24728511_4_1.html?c1=ff6600"></iframe>
 
 
 Te dejo el video de Youtube también por si no querés usar Ivoox:

@@ -13,7 +13,7 @@ image: ""
 
 Para no perder la costumbre les traigo un nuevo episodio del podcast. Esta vez vamos a hablar de LA herramienta por definición en toda distro GNU/Linux, la Terminal.
 
-<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://ar.ivoox.com/es/player_ek_24171266_2_1.html?data=k5memZaWepehhpywj5aZaZS1kZqah5yncZOhhpywj5WRaZi3jpWah5ynca_Z0LjW1sqwrc_p2ZC90cnHpdTojJedk52PcYyZk5igjZKPkMKfz8bjw8_Fb9Tpyt_OjcnJb9XjxZKSmaiRksbjs8bbycrWcYarpJKh&"></iframe>
+<iframe id='audio_24171266' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://ar.ivoox.com/es/player_ej_24171266_4_1.html?c1=ff6600"></iframe>
 
 Seguinos en las redes sociales:
 * Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
