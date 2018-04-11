@@ -15,6 +15,10 @@ Hola a todos!! Bienvenidos a otro episodio más de NeoSiteLinux Podcast! en ést
 
 <iframe id='audio_25298531' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://ar.ivoox.com/es/player_ej_25298531_4_1.html?c1=ff6600"></iframe>
 
+El episodio también en **Youtube** para el que quiera escucharlo por ahí:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtinizMu2x4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Seguinos en las redes sociales:
 * Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
 * Facebook: [NeoSiteLinux](https://facebook.com/neositelinux)
