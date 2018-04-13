@@ -14,5 +14,5 @@ Gracias por pasar!
 
 ### Contacto
 
-[neoranger@openmailbox.org](mailto:neoranger@openmailbox.org)
+[neoranger@disroot.org](mailto:neoranger@disroot.org)
 

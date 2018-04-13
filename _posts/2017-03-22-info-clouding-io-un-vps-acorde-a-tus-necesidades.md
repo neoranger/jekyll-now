@@ -10,7 +10,7 @@ categories: [centos, clouding, clouding.io, debian, docker, gnu linux, gnulinux,
 
 Hoy les quiero contar que la gente de [Clouding.io](http://clouding.io) me contactó para mostrarme sus servicios y que pueda probarlos a fin de dar una especie de review de los mismos.
 
-Les cuento que <a href="http://clouding.io/caracteristicas">Clouding.io es un sitio español el cual brinda  servidores virtuales privados (o VPS en sus siglas en inglés)</a>, los cuales podemos usarlos para uso personal, comercial o profesional.
+Les cuento que <a href="http://clouding.io/caracteristicas">Clouding.io es un sitio español que brinda diferentes servicios informáticos</a>, los cuales podemos usarlos para uso personal, comercial o profesional.
 
 ¿Que nos brinda Clouding.io? Bueno, por empezar podemos montar servidores tanto Linux como Windows Server.
 
