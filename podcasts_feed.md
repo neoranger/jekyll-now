@@ -38,7 +38,7 @@ permalink: /podcasts_feed/
 * Nombre: EL DJ Informático
 * Descripción: Un podcast dedicado a hablar sobre informática y tecnología, en especial todo lo referente al mundillo GNU/Linux y por supuesto el software libre...
 * Web: [https://djinformatico.wordpress.com/](https://djinformatico.wordpress.com/)
-* Feed: [http://feeds.feedburner.com/eldjinformaticomp3  - Feed (Audio en Ogg)](http://feeds.feedburner.com/eldjinformaticoogg)
+* Feed: [Podcast en Ivoox)](http://co.ivoox.com/es/dj-informatico_fg_f1423136_filtro_1.xml)
 
 ---
 
