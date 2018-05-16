@@ -92,7 +92,7 @@ done
 ```
 Cuando nos llegue el email quedará algo así:
 <p align="center">
-<img src="/images/aviso_email.JPG" width="300" height="500" alt="_Logo">
+<img src="/images/aviso_email.JPG" width="500" height="300" alt="_Logo">
 </p>
 
 
