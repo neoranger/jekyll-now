@@ -90,6 +90,12 @@ echo "#Bot is restarting now #"
 echo "###########################################"
 done
 ```
+Cuando nos llegue el email quedará algo así:
+<p align="center">
+<img src="/images/aviso_email.JPG" width="300" height="500" alt="_Logo">
+</p>
+
+
 Espero que lo puedan probar y que me comenten que les parece.
 
 Seguinos en las redes sociales:
