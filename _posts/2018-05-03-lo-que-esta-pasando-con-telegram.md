@@ -27,3 +27,11 @@ Desde acá estamos a favor de Telegram y nos unimos al hastag #DigitalResistance
 FUENTES:
 * [Irán bloquea Telegram](https://http://www.eluniversal.com.mx/cartera/negocios/iran-bloquea-telegram-por-danos-la-seguridad-nacional)
 * [Protesta en Rusia a favor de Telegram](https://hipertextual.com/2018/05/protestan-rusia-bloqueo-telegram)
+
+Seguinos en las redes sociales:
+* Twitter: [@NeoSiteLinux](https://twitter.com/neositelinux)
+* Facebook: [NeoSiteLinux](https://facebook.com/neositelinux)
+* Telegram (canal): [@NeoSiteLinux](https://t.me/neositelinux)
+* Telegram (canal de audios): [@NeoSiteLinuxPodcast](https://t.me/neositelinuxpodcast)
+* Youtube: [NeoSiteLinux](https://www.youtube.com/user/neositelinux)
+* Patreon: [NeoSiteLinux en Patreon](https://www.patreon.com/NeoSiteLinux)

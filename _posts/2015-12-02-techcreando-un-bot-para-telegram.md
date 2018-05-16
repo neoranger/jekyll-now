@@ -4,7 +4,7 @@ title: Creando un bot para Telegram
 date: 2015-12-02
 author: neoranger
 comments: true
-categories: [Tecnologia]
+categories: [Tecnologia, RaspberryPi]
 ---
 Hace unos días en un grupo de Telegram salió la idea de crear un bot a raíz de un pequeño fallo que tiene la aplicación. La administración de grupos de Telegram no es del todo buena ya que solo puede haber un admnistrador pero este admin no puede, al menos por ahora, nombrar a otra persona mas como administrador como para que haya 2 y si es un grupo grande haya un poco de moderación para que no se desbande todo. Esto en Whatsapp es totalmente funcional y común cosa que en Telegram no pasa y por esto tuvimos que mudar un grupo completo a otro porque cuando admin que estaba se fue, el que quedó asignado (por decisión de Telegram al azar, según tengo entendido) no era para nada activo, por ende, alrededor de 45 personas tuvimos que mudarnos.
 
@@ -58,14 +58,15 @@ Entonces con el comando /newbot empezaremos a crearlo.<strong> La creacion es to
 
 Les dejo un pequeño ejemplo de codigo en Python con algunas funciones que puede hacer el bot (para ver el codigo completo podes ir a mi GitHub):
 
-<blockquote># -*- coding: utf-8 -*-
+```
+# -*- coding: utf-8 -*-
 import telebot # Librería de la API del bot.
 from telebot import types # Tipos para la API del bot.
 import time # Librería para hacer que el programa que controla el bot no se acabe.
 import random
 import datetime
 
-TOKEN = <strong>'ACA VA EL TOKEN'</strong> # Nuestro token del bot (el que @BotFather nos dió).
+TOKEN = ACA VA EL TOKEN # Nuestro token del bot (el que @BotFather nos dió).
 
 bot = telebot.TeleBot(TOKEN) # Creamos el objeto de nuestro bot.
 #############################################
@@ -96,7 +97,8 @@ bot.send_message( cid, random.randint(1,6) )
 
 #############################################
 #Peticiones
-bot.polling(none_stop=True) # Con esto, le decimos al bot que siga funcionando incluso si encuentra algun fallo.</blockquote>
+bot.polling(none_stop=True) # Con esto, le decimos al bot que siga funcionando incluso si encuentra algun fallo.
+```
 
 El ejemplo que estoy mostrando basicamente hace 3 cosas, el primer ejemplo (comando /kick) manda una imagen (en este caso de alguien pateando), el segundo ejemplo es la respuesta al comando /help en el que nos indicara los comandos disponibles que tiene el bot (estos se van agregando a mano) y el tercer ejemplo es haciendo uso de la instruccion random.randint de Python la cual (previamente configurada) con el comando /roll nos dara el resultado de la tirada de un dado de 6 caras (en este caso pero pueden ser mas).
 
@@ -119,4 +121,4 @@ Ejemplos de comandos:
 
 Si queres probar mi Bot para ver como es el tema de la interaccion podes agregarlo a un chat de Telegram por su nombre de usuario @RootAdminBot (el nombre fue pensado por lo que comentaba al principio del post, asi que quedo ese nombre, me da fiaca cambiarlo).
 
-Espero que te haya gustado y si te animas a crear tu propio bot esperamos tus comentarios. Si hay algo que no entendiste o necesitas que te lo explique mas detalladamente podes escribirme a <a href="mailto:neoranger@openmailbox.org">neoranger@openmailbox.org</a>
+Espero que te haya gustado y si te animas a crear tu propio bot esperamos tus comentarios. Si hay algo que no entendiste o necesitas que te lo explique mas detalladamente podes escribirme a <a href="mailto:neoranger@disroot.org">neoranger@disroot.org</a>

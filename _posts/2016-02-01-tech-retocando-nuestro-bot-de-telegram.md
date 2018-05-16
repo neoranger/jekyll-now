@@ -4,7 +4,7 @@ title: Retocando nuestro Bot de Telegram
 date: 2016-02-01
 author: neoranger
 comments: true
-categories: [Tecnologia]
+categories: [Tecnologia, RaspberryPi]
 ---
 <img class="  wp-image-2873 aligncenter" src="https://blogneositelinux.files.wordpress.com/2016/10/telegram-buttom.png" alt="telegram-buttom" width="244" height="240" />
 
