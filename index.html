@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<script> 
+  // IMPORTANT: Redirect to gitlab
+  var url = window.location.href;
+  if(url.match(/github.io/g) != null)
+    window.location.replace(url.replace("github.io","gitlab.io"));
+</script>
+
 <div class="posts">
 
   {% for post in site.posts  limit:15 %}
