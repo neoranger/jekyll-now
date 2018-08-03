@@ -1,4 +1,12 @@
 <!DOCTYPE html>
+
+<script> 
+  // IMPORTANT: Redirect to gitlab
+  var url = window.location.href;
+  if(url.match(/github.io/g) != null)
+    window.location.replace(url.replace("https://neoranger.github.io","https://neositelinux.gitlab.io"));
+</script>
+
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
